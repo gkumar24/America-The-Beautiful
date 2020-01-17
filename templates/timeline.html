@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>NP-Timeline</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/timeline.css') }}">
+</head>
+
+<body>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="../static/js/timeline.js"></script>
+    <h1>National Parks, <span>1870 - Present</span></h1>
+    <div class="flex-parent">
+        <div class="input-flex-container">
+            {% for marker in markerList %}
+                <div class="input {{ marker.class }}">
+                    <span data-year="{{ marker.year }}" data-info="{{ marker.year }}">{{ marker.year }}</span>
+                </div>
+            {% endfor %} 
+        </div>
+        <div class="description-flex-container">
+            {% for marker in markerList %}
+                <p class="{{ marker.class }}">
+                    <span>National Parks established in {{ marker.year }}s</span>
+                    {% for timeline in timelineList if timeline.Year_Established | int >= marker.year and timeline.Year_Established | int < marker.year + 10 %}
+                        <br><span class="detail">{{ timeline.Year_Established }} - {{ timeline.Name }}, {{ timeline.Location }}</span>
+                    {% else %}
+                        <br><span class="detail">No park established.</span>
+                    {% endfor %}
+                </p>
+            {% endfor %}
+        </div>
+    </div>
+    <!-- <div>
+        <table>
+            <tbody>
+                {% for timeline in timelineList %}
+                <tr>
+                    <td>{{ timeline.Name }}</td>
+                    <td>{{ timeline.Year_Established }}</td>
+                    <td>{{ decadeStart }}</td>
+                    <td>{{ decadeStop }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div> -->
+
+
+</body>
+
+</html>
