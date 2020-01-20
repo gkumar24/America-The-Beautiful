@@ -25,8 +25,8 @@
             {% for marker in markerList %}
                 <p class="{{ marker.class }}">
                     <span>National Parks established in {{ marker.year }}s</span>
-                    {% for timeline in timelineList if timeline.Year_Established | int >= marker.year and timeline.Year_Established | int < marker.year + 10 %}
-                        <br><span class="detail">{{ timeline.Year_Established }} - {{ timeline.Name }}, {{ timeline.Location }}</span>
+                    {% for timeline in timelineList if timeline.year_established | int >= marker.year and timeline.year_established | int < marker.year + 10 %}
+                        <br><span class="detail">{{ timeline.year_established }} - {{ timeline.name }}</span>
                     {% else %}
                         <br><span class="detail">No park established.</span>
                     {% endfor %}
@@ -40,7 +40,7 @@
                 {% for timeline in timelineList %}
                 <tr>
                     <td>{{ timeline.Name }}</td>
-                    <td>{{ timeline.Year_Established }}</td>
+                    <td>{{ timeline.year_established }}</td>
                     <td>{{ decadeStart }}</td>
                     <td>{{ decadeStop }}</td>
                 </tr>
