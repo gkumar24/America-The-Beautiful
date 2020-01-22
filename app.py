@@ -14,6 +14,8 @@ engine = create_engine(f'postgresql://{username}:{password}@localhost:5432/Natio
 # Create an instance of our Flask app.
 app = Flask(__name__)
 
+app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0
+
 # Set route
 @app.route('/')
 def index():
@@ -21,9 +23,14 @@ def index():
 # --- End of index route ----#
 
 # Set route
+@app.route('/parkmap')
+def parkmap():
+    return render_template("parkmap.html")
+# --- End of index route ----#
+
+# Set route
 @app.route('/timeline')
-def timeline():
-    
+def timeline():    
     # establish a connection
     connection = engine.connect()
 
