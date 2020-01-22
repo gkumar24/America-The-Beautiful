@@ -6,8 +6,8 @@ function markerSize(population) {
 var p1 = d3.json('static/json/natparks_geo.json');
 var p2 = d3.json('static/json/visitAvg.json');
 
+// read thorugh the json files
 var complete = Promise.all([p1, p2]);
-// console.log(complete)
 complete.then((dat) => {
 	// Define variables for our base layers
 	var mapLayer = L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
@@ -37,10 +37,6 @@ complete.then((dat) => {
 			parkMarkers[monvalue.toUpperCase()] = []
 		}		
 	}
-	// console.log(parkMarkers)
-
-
-	// var parkMarkersDict = {}
 
 	for (var key in parks.park_code) {
 		
@@ -81,7 +77,7 @@ complete.then((dat) => {
 				parkMarkers[monvalue.toUpperCase()].push(
 					L.circle(park_coordinates, {
 						stroke: false,
-						fillOpacity: 0.8,
+						fillOpacity: 0.9,
 						fillColor: `hsl(${100 - visitPercent},75%,50%)`,
 						color: "green",
 						radius: 100000
@@ -94,8 +90,7 @@ complete.then((dat) => {
 
 	// Create a baseMaps object
 	var baseMaps = {
-		"Maplayer": mapLayer, 
-		
+		"Maplayer": mapLayer	
 	};
 
 	// Create Over Lay
