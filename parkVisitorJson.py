@@ -1,3 +1,5 @@
+# Purpose
+# To create visitAvg.json file
 import pandas as pd
 
 #Importing SqlAlchemy to use import DataFrame into Postgress.
