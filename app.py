@@ -35,6 +35,12 @@ def dashboard():
 # --- End of index route ----#
 
 # Set route
+@app.route('/parkboard')
+def parkboard():
+    return render_template("parkboard.html")
+# --- End of index route ----#
+
+# Set route
 @app.route('/timeline')
 def timeline():    
     # establish a connection
