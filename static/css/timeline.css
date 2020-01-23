@@ -11,7 +11,7 @@ body {
   display: flex;
   flex-direction: column;
   position: relative;
-  background-image: none;
+  /* background-image: none; */
 }
 
 h1 {
@@ -30,6 +30,7 @@ h1 span {
   align-items: center;
   width: 100%;
   height: 100%;
+  align-content: flex-start;
 }
 
 .input-flex-container {

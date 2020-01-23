@@ -29,6 +29,12 @@ def parkmap():
 # --- End of index route ----#
 
 # Set route
+@app.route('/dashboard')
+def dashboard():
+    return render_template("visitors.html")
+# --- End of index route ----#
+
+# Set route
 @app.route('/timeline')
 def timeline():    
     # establish a connection

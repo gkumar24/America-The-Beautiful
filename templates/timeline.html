@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>NP-Timeline</title>
+    <title>AB-Timeline</title>
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
         integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
@@ -19,50 +19,63 @@
         integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
         crossorigin="anonymous"></script>
 
-    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/index.css') }}"> 
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/index.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/timeline.css') }}">
 </head>
 
 <body>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="../static/js/timeline.js"></script>
-    <h1>National Parks, <span>1870 - Present</span></h1>
-    <div class="flex-parent">
-        <div class="input-flex-container">
-            {% for marker in markerList %}
-                <div class="input {{ marker.class }}">
-                    <span data-year="{{ marker.year }}" data-info="{{ marker.year }}">{{ marker.year }}</span>
-                </div>
-            {% endfor %} 
-        </div>
-        <div class="description-flex-container">
-            {% for marker in markerList %}
-                <p class="{{ marker.class }}">
-                    <span>National Parks established in {{ marker.year }}s</span>
-                    {% for timeline in timelineList if timeline.year_established | int >= marker.year and timeline.year_established | int < marker.year + 10 %}
-                        <br><span class="detail">{{ timeline.year_established }} - {{ timeline.name }}</span>
-                    {% else %}
-                        <br><span class="detail">No park established.</span>
-                    {% endfor %}
-                </p>
-            {% endfor %}
-        </div>
-    </div>
-    <!-- <div>
-        <table>
-            <tbody>
-                {% for timeline in timelineList %}
-                <tr>
-                    <td>{{ timeline.Name }}</td>
-                    <td>{{ timeline.year_established }}</td>
-                    <td>{{ decadeStart }}</td>
-                    <td>{{ decadeStop }}</td>
-                </tr>
-                {% endfor %}
-            </tbody>
-        </table>
-    </div> -->
+    <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
+        <header class="masthead mb-auto">
+            <div class="inner">
+                <h3 class="masthead-brand">US National Parks</h3>
+                <nav class="nav nav-masthead justify-content-center">
+                    <a class="nav-link" href="/">Home</a>
+                    <a class="nav-link active" href="/timeline">Timeline</a>
+                    <a class="nav-link" href="/parkmap">Map</a>
+                    <a class="nav-link" href="/dashboard">Dashboard</a>
+                </nav>
+            </div>
+        </header>
 
+        <main role="main" class="inner cover">
+
+            <h1>National Parks, <span>1870 - Present</span></h1>
+            <div class="flex-parent">
+                <div class="input-flex-container">
+                    {% for marker in markerList %}
+                    <div class="input {{ marker.class }}">
+                        <span data-year="{{ marker.year }}" data-info="">{{ marker.year }}</span>
+                    </div>
+                    {% endfor %}
+                </div>
+                <div class="description-flex-container">
+                    {% for marker in markerList %}
+                    <div>
+                        <p class="{{ marker.class }}">
+                            <span>National Parks established in {{ marker.year }}s</span>
+                            {% for timeline in timelineList if timeline.year_established | int >= marker.year and timeline.year_established | int < marker.year + 10 %}
+                            <br><span class="detail">{{ timeline.year_established }} - {{ timeline.name }}</span>
+                            {% else %}
+                            <br><span class="detail">No park established.</span>
+                            {% endfor %}
+                        </p>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </main>
+
+        <footer class="mastfoot mt-auto">
+            <div class="inner">
+
+                <!-- <p>Ganeshkumar Gurunathan, William Taborn, Janet Namulondo, Kaylin McLeod, Steven Nguyen, Claudia Ahrens
+                </p> -->
+                <p>Photo provided by <a href="https://unsplash.com/@seanstratton">@seanstratton</a>.</p>
+            </div>
+        </footer>
+    </div>
 
 </body>
 

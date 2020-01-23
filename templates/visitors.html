@@ -1,0 +1,299 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Jekyll v3.8.6">
+    <title>AB - Dashboard</title>
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+        integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+        crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+        integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+        integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+        crossorigin="anonymous"></script>
+
+    <style>
+        .bd-placeholder-img {
+            font-size: 1.125rem;
+            text-anchor: middle;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+        }
+
+        @media (min-width: 768px) {
+            .bd-placeholder-img-lg {
+                font-size: 3.5rem;
+            }
+        }
+
+        /*
+ * Globals
+ */
+
+        /* Links */
+        a,
+        a:focus,
+        a:hover {
+            color: #fff;
+        }
+
+        /* Custom default button */
+        .btn-secondary,
+        .btn-secondary:hover,
+        .btn-secondary:focus {
+            color: #333;
+            text-shadow: none;
+            /* Prevent inheritance from `body` */
+            background-color: #fff;
+            border: .05rem solid #fff;
+        }
+
+
+        /*
+ * Base structure
+ */
+
+        html,
+        body {
+            height: 100%;
+            background-color: #333;
+            background-image: url('https://images.unsplash.com/photo-1532009172808-fe52563c17aa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3150&q=80');
+            background-repeat: no-repeat;
+            background-size: 2000px 800px;
+
+        }
+
+        body {
+            display: -ms-flexbox;
+            display: flex;
+            color: black;
+            box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
+        }
+
+        .cover-container {
+            max-width: 42em;
+        }
+
+
+        /*
+ * Header
+ */
+        .masthead {
+            margin-bottom: 2rem;
+        }
+
+        .masthead-brand {
+            margin-bottom: 0;
+        }
+
+        .nav-masthead .nav-link {
+            padding: .25rem 0;
+            font-weight: 700;
+            color: rgba(255, 255, 255, .5);
+            background-color: transparent;
+            border-bottom: .25rem solid transparent;
+        }
+
+        .nav-masthead .nav-link:hover,
+        .nav-masthead .nav-link:focus {
+            border-bottom-color: rgba(255, 255, 255, .25);
+        }
+
+        .nav-masthead .nav-link+.nav-link {
+            margin-left: 1rem;
+        }
+
+        .nav-masthead .active {
+            color: #fff;
+            border-bottom-color: #fff;
+        }
+
+        @media (min-width: 48em) {
+            .masthead-brand {
+                float: left;
+            }
+
+            .nav-masthead {
+                float: right;
+            }
+        }
+
+
+        /*
+ * Cover
+ */
+        .cover {
+            padding: 0 1.5rem;
+        }
+
+        .cover .btn-lg {
+            padding: .75rem 1.25rem;
+            font-weight: 700;
+        }
+
+        .project-description {
+            padding-top: 20px;
+        }
+    </style>
+</head>
+
+<body class="text-center">
+    <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
+        <header class="masthead mb-auto">
+            <div class="inner">
+                <h3 class="masthead-brand">US National Parks</h3>
+                <nav class="nav nav-masthead justify-content-center">
+                    <a class="nav-link" href="/">Home</a>
+                    <a class="nav-link" href="/timeline">Timeline</a>
+                    <a class="nav-link" href="/parkmap">Map</a>
+                    <a class="nav-link active" href="/dashboard">Dashboard</a>
+                </nav>
+            </div>
+        </header>
+
+        <main role="main" class="inner cover">
+            <h1>Visitor Counts</h1>
+
+            <div class="dropdown">
+                <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Select Month
+                </button>
+                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                    <a id='jan-month' class='dropdown-item' href="#">Jan</a>
+                    <a id='feb-month' class='dropdown-item' href="#">Feb</a>
+                    <a id='mar-month' class='dropdown-item' href="#">Mar</a>
+                    <a id='apr-month' class='dropdown-item' href="#">Apr</a>
+                    <a id='may-month' class='dropdown-item' href="#">May</a>
+                    <a id='jun-month' class='dropdown-item' href="#">Jun</a>
+                    <a id='jul-month' class='dropdown-item' href="#">Jul</a>
+                    <a id='aug-month' class='dropdown-item' href="#">Aug</a>
+                    <a id='sep-month' class='dropdown-item' href="#">Sep</a>
+                    <a id='nov-month' class='dropdown-item' href="#">Nov</a>
+                    <a id='dec-month' class='dropdown-item' href="#">Dec</a>
+                </div>
+              </div>
+              <div>
+                  <h4 id='viewing-month'></h4>
+              </div>
+
+            <h5>Top 10 Visited Parks</h5>
+            <table class="table table-bordered table-dark">
+                <thead>
+                    <tr>
+                        <th scope="col">Park Name</th>
+                        <th scope="col">Average Visitor Count</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Name of a Park</td>
+                        <td>10235</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <h5>Bottom 10 Visited Parks</h5>
+            <table class="table table-bordered table-dark">
+                <thead>
+                    <tr>
+                        <th scope="col">Park Name</th>
+                        <th scope="col">Average Visitor Count</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Name of a Park</td>
+                        <td>10235</td>
+                    </tr>
+                </tbody>
+            </table>
+        </main>
+
+        <footer class="mastfoot mt-auto">
+            <div class="inner">
+
+                <p>Ganeshkumar Gurunathan, William Taborn, Janet Namulondo, Kaylin McLeod, Steven Nguyen, Claudia Ahrens
+                </p>
+                <p>Photo provided by <a href="https://unsplash.com/@seanstratton">@seanstratton</a>.</p>
+            </div>
+        </footer>
+    </div>
+
+    <script>
+        $('#jan-month').click(function(e) {
+            console.log('jan-month');
+            $('#viewing-month').text('Viewing Jan');
+        });
+
+        $('#feb-month').click(function(e) {
+            console.log('feb-month');
+            $('#viewing-month').text('Viewing Feb');
+        });
+
+        $('#mar-month').click(function(e) {
+            console.log('mar-month');
+            $('#viewing-month').text('Viewing Mar');
+        });
+
+        $('#apr-month').click(function(e) {
+            console.log('apr-month');
+            $('#viewing-month').text('Viewing Apr');
+        });
+
+        $('#may-month').click(function(e) {
+            console.log('may-month');
+            $('#viewing-month').text('Viewing May');
+        });
+
+        $('#jun-month').click(function(e) {
+            console.log('jun-month');
+            $('#viewing-month').text('Viewing Jun');
+        });
+
+        $('#jul-month').click(function(e) {
+            console.log('jul-month');
+            $('#viewing-month').text('Viewing Jul');
+        });
+
+        $('#aug-month').click(function(e) {
+            console.log('aug-month');
+            $('#viewing-month').text('Viewing Aug');
+        });
+
+        $('#sep-month').click(function(e) {
+            console.log('sep-month');
+            $('#viewing-month').text('Viewing Sep');
+        });
+
+        $('#oct-month').click(function(e) {
+            console.log('oct-month');
+            $('#viewing-month').text('Viewing Oct');
+        });
+
+        $('#nov-month').click(function(e) {
+            console.log('nov-month');
+            $('#viewing-month').text('Viewing Nov');
+        });
+
+        $('#dec-month').click(function(e) {
+            console.log('dec-month');
+            $('#viewing-month').text('Viewing Dec');
+        });
+    </script>
+
+</body>
+
+</html>

@@ -30,6 +30,8 @@ complete.then((dat) => {
 	var monvalue = ""
 	var parkVisit = 0
 	var visitPercent = 0
+	var parkNameGeo = ""
+	var visitedDesc = ""
 
 	for (var datakey in parks) {
 		if (datakey != "park_code" && datakey != "avg_monthly" && datakey != "great_month") {
@@ -43,10 +45,11 @@ complete.then((dat) => {
 		var index;
 		for (index = 0; index < geoFeatures.length; index++) {
 			var current = geoFeatures[index];
-			if (current.properties && current.properties.Code === parks.park_code[key])
-				break;
+			if (current.properties && current.properties.Code === parks.park_code[key]) 				
+				break;				
 		}
 
+		parkNameGeo = geoFeatures[index].properties.Name;		
 		park_coordinates[0] = geoFeatures[index].geometry.coordinates[1].toFixed(4)
 		park_coordinates[1] = geoFeatures[index].geometry.coordinates[0].toFixed(4)
 		// console.log(park_coordinates)
@@ -64,14 +67,19 @@ complete.then((dat) => {
 
 				if (parkVisit <= cal20) {
 					visitPercent = 10
+					visitedDesc = "Least Visited"
 				} else if (parkVisit <= cal40) {
 					visitPercent = 30
+					visitedDesc = "Low to Moderatly Visited"
 				} else if (parkVisit <= cal60) {
 					visitPercent = 50
+					visitedDesc = "Moderatly Visited"
 				} else if (parkVisit <= cal80) {
 					visitPercent = 70
+					visitedDesc = "Moderate to Most Visited"
 				} else {
 					visitPercent = 90
+					visitedDesc = "Most Visited"
 				}
 
 				parkMarkers[monvalue.toUpperCase()].push(
@@ -81,7 +89,8 @@ complete.then((dat) => {
 						fillColor: `hsl(${100 - visitPercent},75%,50%)`,
 						color: "green",
 						radius: 100000
-					})
+
+					}).bindPopup("<h4>" + parks.park_code[key] + "</h4><hr><h4>" + parkNameGeo + "</h4><p>" + visitedDesc + " during " + monvalue.toUpperCase() + "</p>")
 				);
 			}		
 		}
@@ -90,12 +99,12 @@ complete.then((dat) => {
 
 	// Create a baseMaps object
 	var baseMaps = {
-		"Maplayer": mapLayer	
+		"Base Map": mapLayer	
 	};
 
 	// Create Over Lay
 	var monthlayer = []
-	monthlayer.push(mapLayer)
+		monthlayer.push(mapLayer)
 
 	var overlayMaps = {}
 	
