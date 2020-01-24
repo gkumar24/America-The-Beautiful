@@ -172,24 +172,24 @@
                   Select Month
                 </button>
                 <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                    <a id='jan-month' class='dropdown-item' href="#">Jan</a>
-                    <a id='feb-month' class='dropdown-item' href="#">Feb</a>
-                    <a id='mar-month' class='dropdown-item' href="#">Mar</a>
-                    <a id='apr-month' class='dropdown-item' href="#">Apr</a>
-                    <a id='may-month' class='dropdown-item' href="#">May</a>
-                    <a id='jun-month' class='dropdown-item' href="#">Jun</a>
-                    <a id='jul-month' class='dropdown-item' href="#">Jul</a>
-                    <a id='aug-month' class='dropdown-item' href="#">Aug</a>
-                    <a id='sep-month' class='dropdown-item' href="#">Sep</a>
-                    <a id='nov-month' class='dropdown-item' href="#">Nov</a>
-                    <a id='dec-month' class='dropdown-item' href="#">Dec</a>
+                    <a id='jan-month' class='dropdown-item' href="/dashboard/jan">Jan</a>
+                    <a id='feb-month' class='dropdown-item' href="/dashboard/feb">Feb</a>
+                    <a id='mar-month' class='dropdown-item' href="/dashboard/mar">Mar</a>
+                    <a id='apr-month' class='dropdown-item' href="/dashboard/apr">Apr</a>
+                    <a id='may-month' class='dropdown-item' href="/dashboard/may">May</a>
+                    <a id='jun-month' class='dropdown-item' href="/dashboard/jun">Jun</a>
+                    <a id='jul-month' class='dropdown-item' href="/dashboard/jul">Jul</a>
+                    <a id='aug-month' class='dropdown-item' href="/dashboard/aug">Aug</a>
+                    <a id='sep-month' class='dropdown-item' href="/dashboard/sep">Sep</a>
+                    <a id='nov-month' class='dropdown-item' href="/dashboard/nov">Nov</a>
+                    <a id='dec-month' class='dropdown-item' href="/dashboard/dec">Dec</a>
                 </div>
               </div>
               <div>
                   <h4 id='viewing-month'></h4>
               </div>
 
-            <h5>Top 10 Visited Parks</h5>
+            <h5>Top 10 Visited Parks - {{ monthsel }}</h5>
             <table class="table table-bordered table-dark">
                 <thead>
                     <tr>
@@ -198,14 +198,16 @@
                     </tr>
                 </thead>
                 <tbody>
+                    {% for top in top10list %}
                     <tr>
-                        <td>Name of a Park</td>
-                        <td>10235</td>
+                        <td>{{ top.park_name }}</td>
+                        <td>{{ top.avgcount }}</td>
                     </tr>
+                    {% endfor %}
                 </tbody>
             </table>
 
-            <h5>Bottom 10 Visited Parks</h5>
+            <h5>Bottom 10 Visited Parks - {{ monthsel }}</h5>
             <table class="table table-bordered table-dark">
                 <thead>
                     <tr>
@@ -214,10 +216,12 @@
                     </tr>
                 </thead>
                 <tbody>
+                    {% for top in bot10list %}
                     <tr>
-                        <td>Name of a Park</td>
-                        <td>10235</td>
+                        <td>{{ top.park_name }}</td>
+                        <td>{{ top.avgcount }}</td>
                     </tr>
+                    {% endfor %}
                 </tbody>
             </table>
         </main>

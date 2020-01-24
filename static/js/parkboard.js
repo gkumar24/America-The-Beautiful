@@ -25,9 +25,9 @@ complete.then((dat) => {
 
     for (var datakey in parks) {
         if (datakey != "park_code" && datakey != "avg_monthly" && datakey != "great_month") {
-            monvalue = datakey.split("_")[1]
+            monvalue = datakey.split("_")[1].toUpperCase()
             parkVisit = parks[datakey][key]
-            parkChartData.push({category: monvalue, value: parkVisit*100/parkAvg})
+            parkChartData.push({category: monvalue, value: parkVisit})
         }
     }
     // console.log(parkChartData)
@@ -64,7 +64,7 @@ complete.then((dat) => {
         categoryAxis.renderer.grid.template.disabled = true;
         //categoryAxis.renderer.labels.template.disabled = true;
         let labelTemplate = categoryAxis.renderer.labels.template;
-        labelTemplate.radius = am4core.percent(-60);
+        labelTemplate.radius = am4core.percent(-80);
         labelTemplate.location = 0.5;
         labelTemplate.relativeRotation = 90;
     

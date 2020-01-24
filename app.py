@@ -29,9 +29,30 @@ def parkmap():
 # --- End of index route ----#
 
 # Set route
-@app.route('/dashboard')
-def dashboard():
-    return render_template("visitors.html")
+@app.route('/dashboard/<selmonth>')
+def dashboard(selmonth):
+    monthcol = "avg_" + selmonth
+
+    # establish a connection
+    connection = engine.connect()
+
+    # Read title table into dataframe
+    top10_select = "SELECT A.park_code, A." + monthcol + " as avgcount, N.park_name FROM public.visitor_average as A inner join park_coordinates as N on A.park_code = N.park_code order by A." + monthcol + " desc fetch first 10 rows only"
+    top10_df = pd.read_sql(top10_select, connection)
+
+    top10_list = top10_df.to_dict(orient='records')
+
+    bot10_select = "SELECT A.park_code, A." + monthcol + " as avgcount, N.park_name FROM public.visitor_average as A inner join park_coordinates as N on A.park_code = N.park_code order by A." + monthcol + " asc fetch first 10 rows only"
+    bot10_df = pd.read_sql(bot10_select, connection)
+
+    bot10_list = bot10_df.to_dict(orient='records')
+    # print(bot10_list)
+    return render_template(\
+        "visitors.html", \
+        top10list = list(top10_list), \
+        bot10list = list(bot10_list), \
+        monthsel = selmonth.upper()  
+        )
 # --- End of index route ----#
 
 # Set route

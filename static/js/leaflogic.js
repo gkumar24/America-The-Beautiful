@@ -14,10 +14,6 @@ complete.then((dat) => {
 	attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
 	});
 
-	// var dat = complete
-	var geo = p1
-	var parks = p2
-
 	//extract data
 	var [geo, parks] = dat;
 
