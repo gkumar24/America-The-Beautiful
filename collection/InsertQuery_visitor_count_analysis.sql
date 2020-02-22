@@ -1,0 +1,13 @@
+delete from visitor_count_analysis;
+insert into visitor_count_analysis (month, park_code, visitor_count)	SELECT 1 as month, park_code, avg_jan as visitor_average FROM public.visitor_average;
+insert into visitor_count_analysis (month, park_code, visitor_count)	SELECT 2 as month, park_code, avg_feb as visitor_average FROM public.visitor_average;
+insert into visitor_count_analysis (month, park_code, visitor_count)	SELECT 3 as month, park_code, avg_mar as visitor_average FROM public.visitor_average;
+insert into visitor_count_analysis (month, park_code, visitor_count)	SELECT 4 as month, park_code, avg_apr as visitor_average FROM public.visitor_average;
+insert into visitor_count_analysis (month, park_code, visitor_count)	SELECT 5 as month, park_code, avg_may as visitor_average FROM public.visitor_average;
+insert into visitor_count_analysis (month, park_code, visitor_count)	SELECT 6 as month, park_code, avg_jun as visitor_average FROM public.visitor_average;
+insert into visitor_count_analysis (month, park_code, visitor_count)	SELECT 7 as month, park_code, avg_jul as visitor_average FROM public.visitor_average;
+insert into visitor_count_analysis (month, park_code, visitor_count)	SELECT 8 as month, park_code, avg_aug as visitor_average FROM public.visitor_average;
+insert into visitor_count_analysis (month, park_code, visitor_count)	SELECT 9 as month, park_code, avg_sep as visitor_average FROM public.visitor_average;
+insert into visitor_count_analysis (month, park_code, visitor_count)	SELECT 10 as month, park_code, avg_oct as visitor_average FROM public.visitor_average;
+insert into visitor_count_analysis (month, park_code, visitor_count)	SELECT 11 as month, park_code, avg_nov as visitor_average FROM public.visitor_average;
+insert into visitor_count_analysis (month, park_code, visitor_count)	SELECT 12 as month, park_code, avg_dec as visitor_average FROM public.visitor_average;

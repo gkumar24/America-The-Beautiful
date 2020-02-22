@@ -1,0 +1,12 @@
+update public.visitor_count_analysis set snp500_index = 2557 where month = 1;
+update public.visitor_count_analysis set snp500_index = 2597 where month = 2;
+update public.visitor_count_analysis set snp500_index = 2625 where month = 3;
+update public.visitor_count_analysis set snp500_index = 2639 where month = 4;
+update public.visitor_count_analysis set snp500_index = 2651 where month = 5;
+update public.visitor_count_analysis set snp500_index = 2693 where month = 6;
+update public.visitor_count_analysis set snp500_index = 2748 where month = 7;
+update public.visitor_count_analysis set snp500_index = 2737 where month = 8;
+update public.visitor_count_analysis set snp500_index = 2792 where month = 9;
+update public.visitor_count_analysis set snp500_index = 2773 where month = 10;
+update public.visitor_count_analysis set snp500_index = 2807 where month = 11;
+update public.visitor_count_analysis set snp500_index = 2803 where month = 12;
