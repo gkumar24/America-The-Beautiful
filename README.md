@@ -23,6 +23,9 @@ Folder: [templates](templates)
 | timeline.html | National Park Time Line |
 | parkmap.html | Leaflet Map page, showing the visitor count by month |
 | visitors.html | Top 10 and Least 10 visited parks |
+| hypothesis.html | Machine Learning hypothesis |
+| analysis.html | Machine Learning analysis outcome |
+
 
 ### Javascript Files
 Folder: [static\js](static\js)
