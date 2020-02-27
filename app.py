@@ -62,6 +62,18 @@ def parkboard():
 # --- End of index route ----#
 
 # Set route
+@app.route('/analysis')
+def analysis():
+    return render_template("analysis.html")
+# --- End of index route ----#
+
+# Set route
+@app.route('/hypothesis')
+def hypothesis():
+    return render_template("hypothesis.html")
+# --- End of index route ----#
+
+# Set route
 @app.route('/timeline')
 def timeline():    
     # establish a connection

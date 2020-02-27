@@ -1,0 +1,209 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+  <meta name="generator" content="Jekyll v3.8.6">
+  <title>America the Beautiful </title>
+
+  <!-- Bootstrap core CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+  <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+  <style>
+    .bd-placeholder-img {
+      font-size: 1.125rem;
+      text-anchor: middle;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+    }
+
+    @media (min-width: 768px) {
+      .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+      }
+    }
+
+    /*
+ * Globals
+ */
+
+    /* Links */
+    a,
+    a:focus,
+    a:hover {
+      color: #fff;
+    }
+
+    /* Custom default button */
+    .btn-secondary,
+    .btn-secondary:hover,
+    .btn-secondary:focus {
+      color: #333;
+      text-shadow: none;
+      /* Prevent inheritance from `body` */
+      background-color: #fff;
+      border: .05rem solid #fff;
+    }
+
+
+    /*
+ * Base structure
+ */
+
+    html,
+    body {
+      height: 100%;
+      background-color: #333;
+      background-image: url('https://images.unsplash.com/photo-1532009172808-fe52563c17aa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3150&q=80');
+      background-repeat: no-repeat;
+      background-size: 2000px 800px;
+
+    }
+
+    body {
+      display: -ms-flexbox;
+      display: flex;
+      color: black;
+      box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
+    }
+
+    .cover-container {
+      max-width: 60em;
+    }
+
+
+    /*
+ * Header
+ */
+    .masthead {
+      margin-bottom: 2rem;
+    }
+
+    .masthead-brand {
+      margin-bottom: 0;
+    }
+
+    .nav-masthead .nav-link {
+      padding: .25rem 0;
+      font-weight: 700;
+      color: rgba(255, 255, 255, .5);
+      background-color: transparent;
+      border-bottom: .25rem solid transparent;
+    }
+
+    .nav-masthead .nav-link:hover,
+    .nav-masthead .nav-link:focus {
+      border-bottom-color: rgba(255, 255, 255, .25);
+    }
+
+    .nav-masthead .nav-link+.nav-link {
+      margin-left: 1rem;
+    }
+
+    .nav-masthead .active {
+      color: #fff;
+      border-bottom-color: #fff;
+    }
+
+    @media (min-width: 48em) {
+      .masthead-brand {
+        float: left;
+      }
+
+      .nav-masthead {
+        float: right;
+      }
+    }
+
+
+    /*
+ * Cover
+ */
+    .cover {
+      padding: 0 1.5rem;
+    }
+
+    .cover .btn-lg {
+      padding: .75rem 1.25rem;
+      font-weight: 700;
+    }
+
+    .project-description {
+      padding-top: 20px;
+    }
+
+    .analysis {
+      padding-top: 20px;
+    }
+  </style>
+</head>
+
+<body class="text-center">
+  <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
+    <header class="masthead mb-auto">
+      <div class="inner">
+        <h3 class="masthead-brand">US National Parks</h3>
+        <nav class="nav nav-masthead justify-content-center">
+          <a class="nav-link" href="/">Home</a>
+          <a class="nav-link" href="/timeline">Timeline</a>
+          <a class="nav-link" href="/parkmap">Map</a>
+          <a class="nav-link" href="/dashboard/jan">Dashboard</a>
+          <a class="nav-link" href="/hypothesis">Hypothesis</a>
+          <a class="nav-link active" href="/analysis">Analysis</a>          
+        </nav>
+      </div>
+    </header>
+
+    <main role="main" class="inner cover">
+      <h1 class="cover-heading">Analysis</h1>
+
+      <div class="row">
+        <div class="col">
+          <div class="card">
+            <img src="/static/images/R2_0p2.png" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">All Parks</h5>
+              <p class="card-text">R Score: 0.247391738644645</p>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card">
+            <img src="/static/images/R2_0p9.png" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">Parks with Visitor Count > 200,000/year</h5>
+              <p class="card-text">R2 Score: 0.9010963147346344</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row analysis">
+        <div class="col">
+          <h3>Insights</h3>
+          <ul class="list-unstyled">
+            <li>Barriers to accessibility</li>
+            <li>Popularity & features</li>
+            <li>Biodiversity</li>
+          </ul>
+        </div>
+      </div>
+
+    </main>
+
+    <footer class="mastfoot mt-auto">
+      <div class="inner">
+        <p class="text-light">Ganeshkumar Gurunathan, William Taborn, Janet Namulondo, Kaylin McLeod, Claudia Ahrens</p>
+        <p>Photo provided by <a href="https://unsplash.com/@seanstratton">@seanstratton</a>.</p>
+      </div>
+    </footer>
+  </div>
+</body>
+
+</html>
