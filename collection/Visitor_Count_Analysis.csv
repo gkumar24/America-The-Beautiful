@@ -1,0 +1,709 @@
+month,park_code,month_name,park_name,visitor_count,snp500_index,high,low,rain,longitude,latitude,state_abbr,state_name,climate_region,np_region,school_breaks,office_holidays,weekends
+1,NPSA,January,National Park of American Samoa,1502,2557,84,73,14,-169.45380760527,-14.2397277326939,AS,American Samoa,American Samoa,,2,2,8.86
+1,VIIS,January,Virgin Islands National Park,36737,2557,79,68,12,-64.7711104889969,18.3537986172337,VI,Virgin Islands,Virgin Islands,,2,2,8.86
+1,HAVO,January,Hawaii Volcanoes National Park,150451,2557,50,29,6,-155.211822871939,19.3261421561552,HI,Hawaii,Hawaii,,2,2,8.86
+1,HALE,January,Haleakala National Park,88922,2557,68,49,14,-156.147093143192,20.7045121293322,HI,Hawaii,Hawaii,,2,2,8.86
+1,DRTO,January,Dry Tortugas National Park,5028,2557,74,65,5,-82.866554231556,24.6543956186476,FL,Florida,Southeast,,2,2,8.86
+1,EVER,January,Everglades National Park,118434,2557,-7,-23,5,-80.9534963862279,25.2722561640483,FL,Florida,Southeast,,2,2,8.86
+1,BISC,January,Biscayne National Park,31794,2557,65,57,4,-80.2183015926945,25.4696892466471,FL,Florida,Southeast,,2,2,8.86
+1,BIBE,January,Big Bend National Park,31653,2557,68,49,3,-103.229789673023,29.298177668898,TX,Texas,South,,2,2,8.86
+1,GUMO,January,Guadalupe Mountains National Park,7658,2557,61,44,7,-104.884347170347,31.9233842093917,TX,Texas,South,,2,2,8.86
+1,CAVE,January,Carlsbad Caverns National Park,13878,2557,52,29,1,-104.527765634579,32.1523427539914,NM,New Mexico,Southwest,,2,2,8.86
+1,SAGU,January,Saguaro National Park,78689,2557,66,39,3,-110.608314061594,32.1788360853936,AZ,Arizona,Southwest,,2,2,8.86
+1,WHSA,January,White Sands National Monument,23425,2557,57,22,2,-106.335072235936,32.7791333760192,NM,New Mexico,Southwest,,2,2,8.86
+1,CONG,January,Congaree National Park,7005,2557,56,33,7,-80.8183523261644,33.8062043146765,SC,South Carolina,Southeast,,2,2,8.86
+1,JOTR,January,Joshua Tree National Park,164518,2557,63,38,2,-116.159070843561,33.9809652285081,CA,California,West,,2,2,8.86
+1,CHIS,January,Channel Islands National Park,16069,2557,62,39,5,-119.725169845147,34.003929782292,CA,California,West,,2,2,8.86
+1,HOSP,January,Hot Springs National Park,66441,2557,50,29,6,-93.0897218510827,34.5111382250636,AR,Arkansas,South,,2,2,8.86
+1,PEFO,January,Petrified Forest National Park,20133,2557,49,21,3,-109.674717745724,34.9886818040188,AZ,Arizona,Southwest,,2,2,8.86
+1,GRSM,January,Great Smoky Mountains National Park,328101,2557,37,20,10,-83.7710478077257,35.5338112634119,NC,North Carolina,Southeast,,2,2,8.86
+1,GRCA,January,Grand Canyon National Park,179807,2557,25,0,12,-112.195863320502,36.1866831412135,AZ,Arizona,Southwest,,2,2,8.86
+12,GRBA,December,Great Basin National Park,1903,2803,36,12,2,-114.257978174487,38.9461737831271,NV,Nevada,West,,14,2,8.86
+1,DEVA,January,Death Valley National Park,69813,2557,67,40,1,-117.135111544358,36.4874191006716,CA,California,West,,2,2,8.86
+1,PINN,January,Pinnacles National Monument,12554,2557,60,31,7,-121.181100883266,36.4901310064952,CA,California,West,,2,2,8.86
+1,MACA,January,Mammoth Cave National Park,8038,2557,45,26,8,-86.1309019819107,37.197604576779,KY,Kentucky,Central,,2,2,8.86
+1,MEVE,January,Mesa Verde National Park,5429,2557,37,16,5,-108.500928885895,37.2235131532065,CO,Colorado,Southwest,,2,2,8.86
+1,ZION,January,Zion National Park,77330,2557,52,29,7,-112.954431628695,37.2557094971311,UT,Utah,Southwest,,2,2,8.86
+1,BRCA,January,Bryce Canyon National Park,21921,2557,36,11,4,-112.182668887441,37.5839914387525,UT,Utah,Southwest,,2,2,8.86
+1,GRSA,January,Great Sand Dunes National Park & Preserve,2114,2557,37,20,10,-105.578326305192,37.7599427010072,CO,Colorado,Southwest,,2,2,8.86
+1,CARE,January,Capitol Reef National Park,9759,2557,37,20,2,-111.003292945773,37.7959925350174,UT,Utah,Southwest,,2,2,8.86
+1,YOSE,January,Yosemite National Park,116765,2557,48,28,7,-119.556007294598,37.8489365691181,CA,California,West,,2,2,8.86
+1,CANY,January,Canyonlands National Park,5713,2557,40,24,2,-109.883146255275,38.2720728762148,UT,Utah,Southwest,,2,2,8.86
+1,SHEN,January,Shenandoah National Park,14836,2557,39,21,10,-78.6761996287734,38.281082106749,VA,Virginia,Southeast,,2,2,8.86
+1,BLCA,January,Black Canyon Of The Gunnison National Park,4339,2557,44,18,8,-107.723980166415,38.5773922528943,CO,Colorado,Southwest,,2,2,8.86
+1,ARCH,January,Arches National Park,17786,2557,40,18,2,-109.595456027609,38.7079176322515,UT,Utah,Southwest,,2,2,8.86
+1,WOTR,January,Wolf Trap National Park for the Performing Arts,1562,2557,42,25,8,-77.2635541016389,38.9379319964751,VA,Virginia,Southeast,,2,2,8.86
+1,GRBA,January,Great Basin National Park,1047,2557,35,11,2,-114.257978174487,38.9461737831271,NV,Nevada,West,,2,2,8.86
+1,ROMO,January,Rocky Mountain National Park,89676,2557,27,13,14,-105.698385322314,40.3557983972215,CO,Colorado,Southwest,,2,2,8.86
+1,LAVO,January,Lassen Volcanic National Park,8952,2557,43,20,10,-121.412126649044,40.4862202609082,CA,California,West,,2,2,8.86
+1,CUVA,January,Cuyahoga Valley National Park,88262,2557,35,22,8,-81.5690344075238,41.2607133550007,OH,Ohio,Central,,2,2,8.86
+1,INDU,January,Indiana Dunes National Lakeshore,57574,2557,33,20,7,-87.0324152909807,41.661457848148,IN,Indiana,Central,,2,2,8.86
+1,CRLA,January,Crater Lake National Park,6185,2557,38,23,16,-122.135258704593,42.9444360519401,OR,Oregon,Northwest,,2,2,8.86
+1,WICA,January,Wind Cave National Park,11987,2557,40,14,2,-103.428776416894,43.6078717812364,SD,South Dakota,West North Central,,2,2,8.86
+1,GRTE,January,Grand Teton National Park,45767,2557,30,11,7,-110.705466560382,43.8185356536819,WY,Wyoming,West North Central,,2,2,8.86
+1,BADL,January,Badlands National Park,9564,2557,35,17,1,-102.393945095541,43.8340624087368,SD,South Dakota,West North Central,,2,2,8.86
+1,ACAD,January,Acadia National Park,12038,2557,29,10,9,-68.244111977338,44.3507513883282,ME,Maine,Northeast,,2,2,8.86
+1,YELL,January,Yellowstone National Park,27766,2557,28,3,13,-110.490083022759,44.5830322172137,WY,Wyoming,West North Central,,2,2,8.86
+1,MORA,January,Mount Rainier National Park,23401,2557,23,12,21,-121.70574507947,46.8605591990317,WA,Washington,Northwest,,2,2,8.86
+1,THRO,January,Theodore Roosevelt National Park,1982,2557,28,4,2,-103.459250806364,46.9536209666581,ND,North Dakota,West North Central,,2,2,8.86
+1,OLYM,January,Olympic National Park,86967,2557,35,26,18,-123.619445162923,47.7945352044965,WA,Washington,Northwest,,2,2,8.86
+1,ISRO,January,Isle Royale National Park,29,2557,19,7,4,-89.1044184773109,47.9008395823696,MI,Michigan,East North Central,,2,2,8.86
+1,VOYA,January,Voyageurs National Park,4416,2557,16,-6,4,-92.9805712996976,48.5171693221999,MN,Minnesota,East North Central,,2,2,8.86
+1,GLAC,January,Glacier National Park,12241,2557,58,38,4,-113.800791595485,48.6842687606688,MT,Montana,West North Central,,2,2,8.86
+1,NOCA,January,North Cascades National Park,32,2557,16,8,17,-121.347557783632,48.8330394098154,WA,Washington,Northwest,,2,2,8.86
+1,KATM,January,Katmai National Park & Preserve,88,2557,33,22,9,-155.013410503509,58.6225739667646,AK,Alaska,Alaska,,2,2,8.86
+1,GLBA,January,Glacier Bay National Park & Preserve,173,2557,30,17,19,-136.840717328383,58.8008647444753,AK,Alaska,Alaska,,2,2,8.86
+1,KEFJ,January,Kenai Fjords National Park,34,2557,16,9,12,-149.881524488685,59.9538968876318,AK,Alaska,Alaska,,2,2,8.86
+1,LACL,January,Lake Clark National Park & Preserve,137,2557,14,-1,11,-153.601844152823,60.6467969093566,AK,Alaska,Alaska,,2,2,8.86
+1,WRST,January,Wrangell - St Elias National Park & Preserve,25,2557,-5,-16,7,-142.603571113694,61.4184393795561,AK,Alaska,Alaska,,2,2,8.86
+1,DENA,January,Denali National Park & Preserve,406,2557,19,5,8,-151.052635502821,63.2977743600459,AK,Alaska,Alaska,,2,2,8.86
+1,KOVA,January,Kobuk Valley National Park,1161,2557,2,-12,1,-159.063083346586,67.2826365277018,AK,Alaska,Alaska,,2,2,8.86
+1,GAAR,January,Gates Of The Arctic National Park & Preserve,204,2557,19,5,8,-153.264132316988,67.9192854407937,AK,Alaska,Alaska,,2,2,8.86
+2,NPSA,February,National Park of American Samoa,1569,2597,84,73,13,-169.45380760527,-14.2397277326939,AS,American Samoa,American Samoa,,1,1,8
+2,VIIS,February,Virgin Islands National Park,42830,2597,80,67,10,-64.7711104889969,18.3537986172337,VI,Virgin Islands,Virgin Islands,,1,1,8
+2,HAVO,February,Hawaii Volcanoes National Park,143288,2597,55,32,7,-155.211822871939,19.3261421561552,HI,Hawaii,Hawaii,,1,1,8
+2,HALE,February,Haleakala National Park,86708,2597,67,49,13,-156.147093143192,20.7045121293322,HI,Hawaii,Hawaii,,1,1,8
+2,DRTO,February,Dry Tortugas National Park,4825,2597,76,65,3,-82.866554231556,24.6543956186476,FL,Florida,Southeast,,1,1,8
+2,EVER,February,Everglades National Park,118264,2597,4,-16,5,-80.9534963862279,25.2722561640483,FL,Florida,Southeast,,1,1,8
+2,BISC,February,Biscayne National Park,33415,2597,66,59,4,-80.2183015926945,25.4696892466471,FL,Florida,Southeast,,1,1,8
+2,BIBE,February,Big Bend National Park,39312,2597,74,53,3,-103.229789673023,29.298177668898,TX,Texas,South,,1,1,8
+2,GUMO,February,Guadalupe Mountains National Park,11364,2597,61,43,7,-104.884347170347,31.9233842093917,TX,Texas,South,,1,1,8
+2,CAVE,February,Carlsbad Caverns National Park,16336,2597,56,32,1,-104.527765634579,32.1523427539914,NM,New Mexico,Southwest,,1,1,8
+2,SAGU,February,Saguaro National Park,98088,2597,69,41,2,-110.608314061594,32.1788360853936,AZ,Arizona,Southwest,,1,1,8
+2,WHSA,February,White Sands National Monument,29459,2597,63,26,1,-106.335072235936,32.7791333760192,NM,New Mexico,Southwest,,1,1,8
+2,CONG,February,Congaree National Park,9428,2597,59,35,6,-80.8183523261644,33.8062043146765,SC,South Carolina,Southeast,,1,1,8
+2,JOTR,February,Joshua Tree National Park,190267,2597,66,38,1,-116.159070843561,33.9809652285081,CA,California,West,,1,1,8
+2,CHIS,February,Channel Islands National Park,18749,2597,61,39,6,-119.725169845147,34.003929782292,CA,California,West,,1,1,8
+2,HOSP,February,Hot Springs National Park,71775,2597,55,32,7,-93.0897218510827,34.5111382250636,AR,Arkansas,South,,1,1,8
+2,PEFO,February,Petrified Forest National Park,23224,2597,56,25,2,-109.674717745724,34.9886818040188,AZ,Arizona,Southwest,,1,1,8
+2,GRSM,February,Great Smoky Mountains National Park,333366,2597,40,23,10,-83.7710478077257,35.5338112634119,NC,North Carolina,Southeast,,1,1,8
+2,GRCA,February,Grand Canyon National Park,186515,2597,30,2,10,-112.195863320502,36.1866831412135,AZ,Arizona,Southwest,,1,1,8
+2,DEVA,February,Death Valley National Park,84556,2597,74,46,1,-117.135111544358,36.4874191006716,CA,California,West,,1,1,8
+2,PINN,February,Pinnacles National Monument,16906,2597,62,33,7,-121.181100883266,36.4901310064952,CA,California,West,,1,1,8
+2,MACA,February,Mammoth Cave National Park,8995,2597,51,29,7,-86.1309019819107,37.197604576779,KY,Kentucky,Central,,1,1,8
+2,MEVE,February,Mesa Verde National Park,5796,2597,41,20,5,-108.500928885895,37.2235131532065,CO,Colorado,Southwest,,1,1,8
+2,ZION,February,Zion National Park,90835,2597,57,31,7,-112.954431628695,37.2557094971311,UT,Utah,Southwest,,1,1,8
+2,BRCA,February,Bryce Canyon National Park,25116,2597,38,13,4,-112.182668887441,37.5839914387525,UT,Utah,Southwest,,1,1,8
+2,GRSA,February,Great Sand Dunes National Park & Preserve,3020,2597,40,23,10,-105.578326305192,37.7599427010072,CO,Colorado,Southwest,,1,1,8
+2,CARE,February,Capitol Reef National Park,12001,2597,43,24,2,-111.003292945773,37.7959925350174,UT,Utah,Southwest,,1,1,8
+2,YOSE,February,Yosemite National Park,124648,2597,53,30,7,-119.556007294598,37.8489365691181,CA,California,West,,1,1,8
+2,CANY,February,Canyonlands National Park,10768,2597,47,29,2,-109.883146255275,38.2720728762148,UT,Utah,Southwest,,1,1,8
+2,SHEN,February,Shenandoah National Park,15888,2597,43,23,11,-78.6761996287734,38.281082106749,VA,Virginia,Southeast,,1,1,8
+2,BLCA,February,Black Canyon Of The Gunnison National Park,3743,2597,48,22,9,-107.723980166415,38.5773922528943,CO,Colorado,Southwest,,1,1,8
+2,ARCH,February,Arches National Park,25780,2597,49,25,2,-109.595456027609,38.7079176322515,UT,Utah,Southwest,,1,1,8
+2,WOTR,February,Wolf Trap National Park for the Performing Arts,2489,2597,45,26,6,-77.2635541016389,38.9379319964751,VA,Virginia,Southeast,,1,1,8
+2,GRBA,February,Great Basin National Park,1864,2597,40,16,2,-114.257978174487,38.9461737831271,NV,Nevada,West,,1,1,8
+2,ROMO,February,Rocky Mountain National Park,77606,2597,28,13,14,-105.698385322314,40.3557983972215,CO,Colorado,Southwest,,1,1,8
+2,LAVO,February,Lassen Volcanic National Park,6580,2597,42,19,9,-121.412126649044,40.4862202609082,CA,California,West,,1,1,8
+2,CUVA,February,Cuyahoga Valley National Park,83257,2597,37,24,7,-81.5690344075238,41.2607133550007,OH,Ohio,Central,,1,1,8
+2,INDU,February,Indiana Dunes National Lakeshore,62604,2597,36,21,6,-87.0324152909807,41.661457848148,IN,Indiana,Central,,1,1,8
+2,CRLA,February,Crater Lake National Park,5606,2597,38,22,15,-122.135258704593,42.9444360519401,OR,Oregon,Northwest,,1,1,8
+2,WICA,February,Wind Cave National Park,11655,2597,41,16,3,-103.428776416894,43.6078717812364,SD,South Dakota,West North Central,,1,1,8
+2,GRTE,February,Grand Teton National Park,43269,2597,30,9,7,-110.705466560382,43.8185356536819,WY,Wyoming,West North Central,,1,1,8
+2,BADL,February,Badlands National Park,9468,2597,36,17,2,-102.393945095541,43.8340624087368,SD,South Dakota,West North Central,,1,1,8
+2,ACAD,February,Acadia National Park,11826,2597,31,13,7,-68.244111977338,44.3507513883282,ME,Maine,Northeast,,1,1,8
+2,YELL,February,Yellowstone National Park,31318,2597,31,4,11,-110.490083022759,44.5830322172137,WY,Wyoming,West North Central,,1,1,8
+2,MORA,February,Mount Rainier National Park,18961,2597,24,12,18,-121.70574507947,46.8605591990317,WA,Washington,Northwest,,1,1,8
+2,THRO,February,Theodore Roosevelt National Park,2577,2597,33,8,2,-103.459250806364,46.9536209666581,ND,North Dakota,West North Central,,1,1,8
+2,OLYM,February,Olympic National Park,86495,2597,34,22,14,-123.619445162923,47.7945352044965,WA,Washington,Northwest,,1,1,8
+2,ISRO,February,Isle Royale National Park,39,2597,20,7,4,-89.1044184773109,47.9008395823696,MI,Michigan,East North Central,,1,1,8
+2,VOYA,February,Voyageurs National Park,7762,2597,20,-5,3,-92.9805712996976,48.5171693221999,MN,Minnesota,East North Central,,1,1,8
+2,GLAC,February,Glacier National Park,12151,2597,65,42,4,-113.800791595485,48.6842687606688,MT,Montana,West North Central,,1,1,8
+2,NOCA,February,North Cascades National Park,48,2597,19,8,14,-121.347557783632,48.8330394098154,WA,Washington,Northwest,,1,1,8
+2,KATM,February,Katmai National Park & Preserve,88,2597,34,23,8,-155.013410503509,58.6225739667646,AK,Alaska,Alaska,,1,1,8
+2,GLBA,February,Glacier Bay National Park & Preserve,178,2597,32,14,16,-136.840717328383,58.8008647444753,AK,Alaska,Alaska,,1,1,8
+2,KEFJ,February,Kenai Fjords National Park,69,2597,16,8,8,-149.881524488685,59.9538968876318,AK,Alaska,Alaska,,1,1,8
+2,LACL,February,Lake Clark National Park & Preserve,185,2597,19,1,9,-153.601844152823,60.6467969093566,AK,Alaska,Alaska,,1,1,8
+2,WRST,February,Wrangell - St Elias National Park & Preserve,95,2597,-6,-16,6,-142.603571113694,61.4184393795561,AK,Alaska,Alaska,,1,1,8
+2,DENA,February,Denali National Park & Preserve,1152,2597,23,7,7,-151.052635502821,63.2977743600459,AK,Alaska,Alaska,,1,1,8
+2,KOVA,February,Kobuk Valley National Park,680,2597,8,-8,1,-159.063083346586,67.2826365277018,AK,Alaska,Alaska,,1,1,8
+2,GAAR,February,Gates Of The Arctic National Park & Preserve,211,2597,23,7,7,-153.264132316988,67.9192854407937,AK,Alaska,Alaska,,1,1,8
+3,NPSA,March,National Park of American Samoa,2204,2625,84,73,13,-169.45380760527,-14.2397277326939,AS,American Samoa,American Samoa,,3,0,8.86
+3,VIIS,March,Virgin Islands National Park,48748,2625,82,68,8,-64.7711104889969,18.3537986172337,VI,Virgin Islands,Virgin Islands,,3,0,8.86
+3,HAVO,March,Hawaii Volcanoes National Park,136346,2625,64,40,8,-155.211822871939,19.3261421561552,HI,Hawaii,Hawaii,,3,0,8.86
+3,HALE,March,Haleakala National Park,95626,2625,67,50,19,-156.147093143192,20.7045121293322,HI,Hawaii,Hawaii,,3,0,8.86
+3,DRTO,March,Dry Tortugas National Park,6605,2625,78,67,3,-82.866554231556,24.6543956186476,FL,Florida,Southeast,,3,0,8.86
+3,EVER,March,Everglades National Park,131643,2625,15,-14,5,-80.9534963862279,25.2722561640483,FL,Florida,Southeast,,3,0,8.86
+3,BISC,March,Biscayne National Park,44981,2625,71,64,3,-80.2183015926945,25.4696892466471,FL,Florida,Southeast,,3,0,8.86
+3,BIBE,March,Big Bend National Park,58886,2625,80,58,2,-103.229789673023,29.298177668898,TX,Texas,South,,3,0,8.86
+3,GUMO,March,Guadalupe Mountains National Park,23347,2625,61,44,9,-104.884347170347,31.9233842093917,TX,Texas,South,,3,0,8.86
+3,CAVE,March,Carlsbad Caverns National Park,51879,2625,63,39,1,-104.527765634579,32.1523427539914,NM,New Mexico,Southwest,,3,0,8.86
+3,SAGU,March,Saguaro National Park,122583,2625,75,46,2,-110.608314061594,32.1788360853936,AZ,Arizona,Southwest,,3,0,8.86
+3,WHSA,March,White Sands National Monument,67154,2625,71,32,1,-106.335072235936,32.7791333760192,NM,New Mexico,Southwest,,3,0,8.86
+3,CONG,March,Congaree National Park,16112,2625,68,44,7,-80.8183523261644,33.8062043146765,SC,South Carolina,Southeast,,3,0,8.86
+3,JOTR,March,Joshua Tree National Park,283520,2625,74,43,0,-116.159070843561,33.9809652285081,CA,California,West,,3,0,8.86
+3,CHIS,March,Channel Islands National Park,26520,2625,63,40,6,-119.725169845147,34.003929782292,CA,California,West,,3,0,8.86
+3,HOSP,March,Hot Springs National Park,118793,2625,64,40,8,-93.0897218510827,34.5111382250636,AR,Arkansas,South,,3,0,8.86
+3,PEFO,March,Petrified Forest National Park,55586,2625,63,30,3,-109.674717745724,34.9886818040188,AZ,Arizona,Southwest,,3,0,8.86
+3,GRSM,March,Great Smoky Mountains National Park,613803,2625,47,28,10,-83.7710478077257,35.5338112634119,NC,North Carolina,Southeast,,3,0,8.86
+3,GRCA,March,Grand Canyon National Park,402143,2625,39,11,10,-112.195863320502,36.1866831412135,AZ,Arizona,Southwest,,3,0,8.86
+3,DEVA,March,Death Valley National Park,127057,2625,82,55,1,-117.135111544358,36.4874191006716,CA,California,West,,3,0,8.86
+3,PINN,March,Pinnacles National Monument,24126,2625,65,35,7,-121.181100883266,36.4901310064952,CA,California,West,,3,0,8.86
+3,MACA,March,Mammoth Cave National Park,42216,2625,60,37,9,-86.1309019819107,37.197604576779,KY,Kentucky,Central,,3,0,8.86
+3,MEVE,March,Mesa Verde National Park,16435,2625,49,26,5,-108.500928885895,37.2235131532065,CO,Colorado,Southwest,,3,0,8.86
+3,ZION,March,Zion National Park,262103,2625,63,36,8,-112.954431628695,37.2557094971311,UT,Utah,Southwest,,3,0,8.86
+3,BRCA,March,Bryce Canyon National Park,62970,2625,44,19,4,-112.182668887441,37.5839914387525,UT,Utah,Southwest,,3,0,8.86
+3,GRSA,March,Great Sand Dunes National Park & Preserve,13962,2625,47,28,10,-105.578326305192,37.7599427010072,CO,Colorado,Southwest,,3,0,8.86
+3,ROMO,March,Rocky Mountain National Park,115433,2625,36,18,15,-105.698385322314,40.3557983972215,CO,Colorado,Southwest,,3,0,8.86
+3,CARE,March,Capitol Reef National Park,48385,2625,53,32,2,-111.003292945773,37.7959925350174,UT,Utah,Southwest,,3,0,8.86
+3,YOSE,March,Yosemite National Park,169167,2625,58,33,9,-119.556007294598,37.8489365691181,CA,California,West,,3,0,8.86
+3,CANY,March,Canyonlands National Park,45306,2625,57,36,3,-109.883146255275,38.2720728762148,UT,Utah,Southwest,,3,0,8.86
+3,SHEN,March,Shenandoah National Park,39584,2625,52,30,13,-78.6761996287734,38.281082106749,VA,Virginia,Southeast,,3,0,8.86
+3,BLCA,March,Black Canyon Of The Gunnison National Park,5843,2625,57,29,11,-107.723980166415,38.5773922528943,CO,Colorado,Southwest,,3,0,8.86
+3,ARCH,March,Arches National Park,97404,2625,60,34,3,-109.595456027609,38.7079176322515,UT,Utah,Southwest,,3,0,8.86
+3,WOTR,March,Wolf Trap National Park for the Performing Arts,1744,2625,53,33,7,-77.2635541016389,38.9379319964751,VA,Virginia,Southeast,,3,0,8.86
+3,GRBA,March,Great Basin National Park,4331,2625,49,24,3,-114.257978174487,38.9461737831271,NV,Nevada,West,,3,0,8.86
+3,LAVO,March,Lassen Volcanic National Park,7029,2625,47,21,11,-121.412126649044,40.4862202609082,CA,California,West,,3,0,8.86
+3,CUVA,March,Cuyahoga Valley National Park,112667,2625,48,32,9,-81.5690344075238,41.2607133550007,OH,Ohio,Central,,3,0,8.86
+3,INDU,March,Indiana Dunes National Lakeshore,104386,2625,47,31,7,-87.0324152909807,41.661457848148,IN,Indiana,Central,,3,0,8.86
+3,CRLA,March,Crater Lake National Park,9150,2625,42,24,19,-122.135258704593,42.9444360519401,OR,Oregon,Northwest,,3,0,8.86
+3,WICA,March,Wind Cave National Park,20737,2625,51,23,4,-103.428776416894,43.6078717812364,SD,South Dakota,West North Central,,3,0,8.86
+3,GRTE,March,Grand Teton National Park,51928,2625,35,13,8,-110.705466560382,43.8185356536819,WY,Wyoming,West North Central,,3,0,8.86
+3,BADL,March,Badlands National Park,17812,2625,47,26,3,-102.393945095541,43.8340624087368,SD,South Dakota,West North Central,,3,0,8.86
+3,ACAD,March,Acadia National Park,21744,2625,38,20,9,-68.244111977338,44.3507513883282,ME,Maine,Northeast,,3,0,8.86
+3,YELL,March,Yellowstone National Park,21864,2625,39,10,14,-110.490083022759,44.5830322172137,WY,Wyoming,West North Central,,3,0,8.86
+3,MORA,March,Mount Rainier National Park,24578,2625,26,13,22,-121.70574507947,46.8605591990317,WA,Washington,Northwest,,3,0,8.86
+3,THRO,March,Theodore Roosevelt National Park,7500,2625,44,18,2,-103.459250806364,46.9536209666581,ND,North Dakota,West North Central,,3,0,8.86
+3,OLYM,March,Olympic National Park,112266,2625,37,24,18,-123.619445162923,47.7945352044965,WA,Washington,Northwest,,3,0,8.86
+3,ISRO,March,Isle Royale National Park,47,2625,33,19,11,-89.1044184773109,47.9008395823696,MI,Michigan,East North Central,,3,0,8.86
+3,VOYA,March,Voyageurs National Park,3365,2625,35,12,4,-92.9805712996976,48.5171693221999,MN,Minnesota,East North Central,,3,0,8.86
+3,GLAC,March,Glacier National Park,17276,2625,74,48,4,-113.800791595485,48.6842687606688,MT,Montana,West North Central,,3,0,8.86
+3,NOCA,March,North Cascades National Park,85,2625,25,11,15,-121.347557783632,48.8330394098154,WA,Washington,Northwest,,3,0,8.86
+3,KATM,March,Katmai National Park & Preserve,88,2625,32,20,7,-155.013410503509,58.6225739667646,AK,Alaska,Alaska,,3,0,8.86
+3,GLBA,March,Glacier Bay National Park & Preserve,171,2625,39,20,18,-136.840717328383,58.8008647444753,AK,Alaska,Alaska,,3,0,8.86
+3,KEFJ,March,Kenai Fjords National Park,48,2625,17,8,9,-149.881524488685,59.9538968876318,AK,Alaska,Alaska,,3,0,8.86
+3,LACL,March,Lake Clark National Park & Preserve,264,2625,25,4,9,-153.601844152823,60.6467969093566,AK,Alaska,Alaska,,3,0,8.86
+3,WRST,March,Wrangell - St Elias National Park & Preserve,230,2625,-5,-15,5,-142.603571113694,61.4184393795561,AK,Alaska,Alaska,,3,0,8.86
+3,DENA,March,Denali National Park & Preserve,2581,2625,30,9,6,-151.052635502821,63.2977743600459,AK,Alaska,Alaska,,3,0,8.86
+3,KOVA,March,Kobuk Valley National Park,805,2625,13,-7,2,-159.063083346586,67.2826365277018,AK,Alaska,Alaska,,3,0,8.86
+3,GAAR,March,Gates Of The Arctic National Park & Preserve,283,2625,30,9,6,-153.264132316988,67.9192854407937,AK,Alaska,Alaska,,3,0,8.86
+4,NPSA,April,National Park of American Samoa,2477,2639,84,73,14,-169.45380760527,-14.2397277326939,AS,American Samoa,American Samoa,,3,0,8.57
+4,VIIS,April,Virgin Islands National Park,46756,2639,84,69,8,-64.7711104889969,18.3537986172337,VI,Virgin Islands,Virgin Islands,,3,0,8.57
+4,HAVO,April,Hawaii Volcanoes National Park,122881,2639,73,48,7,-155.211822871939,19.3261421561552,HI,Hawaii,Hawaii,,3,0,8.57
+4,HALE,April,Haleakala National Park,87054,2639,68,51,22,-156.147093143192,20.7045121293322,HI,Hawaii,Hawaii,,3,0,8.57
+4,DRTO,April,Dry Tortugas National Park,6159,2639,83,71,2,-82.866554231556,24.6543956186476,FL,Florida,Southeast,,3,0,8.57
+4,EVER,April,Everglades National Park,91217,2639,36,9,4,-80.9534963862279,25.2722561640483,FL,Florida,Southeast,,3,0,8.57
+4,BISC,April,Biscayne National Park,49132,2639,74,68,3,-80.2183015926945,25.4696892466471,FL,Florida,Southeast,,3,0,8.57
+4,BIBE,April,Big Bend National Park,39746,2639,87,65,3,-103.229789673023,29.298177668898,TX,Texas,South,,3,0,8.57
+4,GUMO,April,Guadalupe Mountains National Park,18734,2639,61,44,9,-104.884347170347,31.9233842093917,TX,Texas,South,,3,0,8.57
+4,CAVE,April,Carlsbad Caverns National Park,33917,2639,71,46,1,-104.527765634579,32.1523427539914,NM,New Mexico,Southwest,,3,0,8.57
+4,SAGU,April,Saguaro National Park,84574,2639,83,52,1,-110.608314061594,32.1788360853936,AZ,Arizona,Southwest,,3,0,8.57
+4,WHSA,April,White Sands National Monument,50195,2639,79,40,1,-106.335072235936,32.7791333760192,NM,New Mexico,Southwest,,3,0,8.57
+4,CONG,April,Congaree National Park,13139,2639,75,50,5,-80.8183523261644,33.8062043146765,SC,South Carolina,Southeast,,3,0,8.57
+4,JOTR,April,Joshua Tree National Park,247753,2639,80,48,0,-116.159070843561,33.9809652285081,CA,California,West,,3,0,8.57
+4,CHIS,April,Channel Islands National Park,27242,2639,66,42,5,-119.725169845147,34.003929782292,CA,California,West,,3,0,8.57
+4,HOSP,April,Hot Springs National Park,101076,2639,73,48,7,-93.0897218510827,34.5111382250636,AR,Arkansas,South,,3,0,8.57
+4,PEFO,April,Petrified Forest National Park,55365,2639,71,35,2,-109.674717745724,34.9886818040188,AZ,Arizona,Southwest,,3,0,8.57
+4,GRSM,April,Great Smoky Mountains National Park,798779,2639,57,37,10,-83.7710478077257,35.5338112634119,NC,North Carolina,Southeast,,3,0,8.57
+4,GRCA,April,Grand Canyon National Park,450312,2639,47,20,9,-112.195863320502,36.1866831412135,AZ,Arizona,Southwest,,3,0,8.57
+4,DEVA,April,Death Valley National Park,126009,2639,90,62,0,-117.135111544358,36.4874191006716,CA,California,West,,3,0,8.57
+4,PINN,April,Pinnacles National Monument,29074,2639,70,37,3,-121.181100883266,36.4901310064952,CA,California,West,,3,0,8.57
+4,MACA,April,Mammoth Cave National Park,55082,2639,72,46,9,-86.1309019819107,37.197604576779,KY,Kentucky,Central,,3,0,8.57
+4,MEVE,April,Mesa Verde National Park,29046,2639,57,31,4,-108.500928885895,37.2235131532065,CO,Colorado,Southwest,,3,0,8.57
+4,ZION,April,Zion National Park,365042,2639,73,43,6,-112.954431628695,37.2557094971311,UT,Utah,Southwest,,3,0,8.57
+4,BRCA,April,Bryce Canyon National Park,123543,2639,52,24,3,-112.182668887441,37.5839914387525,UT,Utah,Southwest,,3,0,8.57
+4,GRSA,April,Great Sand Dunes National Park & Preserve,14338,2639,57,37,10,-105.578326305192,37.7599427010072,CO,Colorado,Southwest,,3,0,8.57
+4,CARE,April,Capitol Reef National Park,90908,2639,60,36,2,-111.003292945773,37.7959925350174,UT,Utah,Southwest,,3,0,8.57
+4,YOSE,April,Yosemite National Park,263736,2639,65,37,6,-119.556007294598,37.8489365691181,CA,California,West,,3,0,8.57
+4,CANY,April,Canyonlands National Park,71036,2639,65,42,3,-109.883146255275,38.2720728762148,UT,Utah,Southwest,,3,0,8.57
+4,SHEN,April,Shenandoah National Park,96524,2639,63,39,15,-78.6761996287734,38.281082106749,VA,Virginia,Southeast,,3,0,8.57
+4,BLCA,April,Black Canyon Of The Gunnison National Park,10069,2639,64,35,12,-107.723980166415,38.5773922528943,CO,Colorado,Southwest,,3,0,8.57
+4,ARCH,April,Arches National Park,130585,2639,69,40,3,-109.595456027609,38.7079176322515,UT,Utah,Southwest,,3,0,8.57
+4,WOTR,April,Wolf Trap National Park for the Performing Arts,2624,2639,66,43,8,-77.2635541016389,38.9379319964751,VA,Virginia,Southeast,,3,0,8.57
+4,GRBA,April,Great Basin National Park,7639,2639,57,29,4,-114.257978174487,38.9461737831271,NV,Nevada,West,,3,0,8.57
+4,ROMO,April,Rocky Mountain National Park,116833,2639,42,23,15,-105.698385322314,40.3557983972215,CO,Colorado,Southwest,,3,0,8.57
+4,LAVO,April,Lassen Volcanic National Park,10952,2639,50,25,8,-121.412126649044,40.4862202609082,CA,California,West,,3,0,8.57
+4,CUVA,April,Cuyahoga Valley National Park,185265,2639,60,42,10,-81.5690344075238,41.2607133550007,OH,Ohio,Central,,3,0,8.57
+4,INDU,April,Indiana Dunes National Lakeshore,96968,2639,59,39,8,-87.0324152909807,41.661457848148,IN,Indiana,Central,,3,0,8.57
+4,CRLA,April,Crater Lake National Park,15467,2639,46,26,16,-122.135258704593,42.9444360519401,OR,Oregon,Northwest,,3,0,8.57
+4,WICA,April,Wind Cave National Park,38326,2639,58,31,7,-103.428776416894,43.6078717812364,SD,South Dakota,West North Central,,3,0,8.57
+4,GRTE,April,Grand Teton National Park,51841,2639,38,17,8,-110.705466560382,43.8185356536819,WY,Wyoming,West North Central,,3,0,8.57
+4,BADL,April,Badlands National Park,24113,2639,57,35,8,-102.393945095541,43.8340624087368,SD,South Dakota,West North Central,,3,0,8.57
+4,ACAD,April,Acadia National Park,66366,2639,50,31,9,-68.244111977338,44.3507513883282,ME,Maine,Northeast,,3,0,8.57
+4,YELL,April,Yellowstone National Park,38286,2639,46,19,13,-110.490083022759,44.5830322172137,WY,Wyoming,West North Central,,3,0,8.57
+4,MORA,April,Mount Rainier National Park,30812,2639,30,16,19,-121.70574507947,46.8605591990317,WA,Washington,Northwest,,3,0,8.57
+4,THRO,April,Theodore Roosevelt National Park,18812,2639,57,29,4,-103.459250806364,46.9536209666581,ND,North Dakota,West North Central,,3,0,8.57
+4,OLYM,April,Olympic National Park,154962,2639,42,26,14,-123.619445162923,47.7945352044965,WA,Washington,Northwest,,3,0,8.57
+4,ISRO,April,Isle Royale National Park,65,2639,45,29,10,-89.1044184773109,47.9008395823696,MI,Michigan,East North Central,,3,0,8.57
+4,VOYA,April,Voyageurs National Park,405,2639,50,27,6,-92.9805712996976,48.5171693221999,MN,Minnesota,East North Central,,3,0,8.57
+4,GLAC,April,Glacier National Park,32714,2639,83,55,2,-113.800791595485,48.6842687606688,MT,Montana,West North Central,,3,0,8.57
+4,NOCA,April,North Cascades National Park,144,2639,33,15,12,-121.347557783632,48.8330394098154,WA,Washington,Northwest,,3,0,8.57
+4,KATM,April,Katmai National Park & Preserve,118,2639,43,31,11,-155.013410503509,58.6225739667646,AK,Alaska,Alaska,,3,0,8.57
+4,GLBA,April,Glacier Bay National Park & Preserve,988,2639,47,26,16,-136.840717328383,58.8008647444753,AK,Alaska,Alaska,,3,0,8.57
+4,KEFJ,April,Kenai Fjords National Park,50,2639,24,15,14,-149.881524488685,59.9538968876318,AK,Alaska,Alaska,,3,0,8.57
+4,LACL,April,Lake Clark National Park & Preserve,264,2639,36,17,14,-153.601844152823,60.6467969093566,AK,Alaska,Alaska,,3,0,8.57
+4,WRST,April,Wrangell - St Elias National Park & Preserve,520,2639,6,-5,3,-142.603571113694,61.4184393795561,AK,Alaska,Alaska,,3,0,8.57
+4,DENA,April,Denali National Park & Preserve,3861,2639,41,23,7,-151.052635502821,63.2977743600459,AK,Alaska,Alaska,,3,0,8.57
+4,KOVA,April,Kobuk Valley National Park,866,2639,33,11,5,-159.063083346586,67.2826365277018,AK,Alaska,Alaska,,3,0,8.57
+4,GAAR,April,Gates Of The Arctic National Park & Preserve,103,2639,41,23,7,-153.264132316988,67.9192854407937,AK,Alaska,Alaska,,3,0,8.57
+5,NPSA,May,National Park of American Samoa,2177,2651,82,73,14,-169.45380760527,-14.2397277326939,AS,American Samoa,American Samoa,,1,1,8.86
+5,VIIS,May,Virgin Islands National Park,33597,2651,84,71,10,-64.7711104889969,18.3537986172337,VI,Virgin Islands,Virgin Islands,,1,1,8.86
+5,HAVO,May,Hawaii Volcanoes National Park,117173,2651,80,58,9,-155.211822871939,19.3261421561552,HI,Hawaii,Hawaii,,1,1,8.86
+5,HALE,May,Haleakala National Park,95756,2651,69,53,20,-156.147093143192,20.7045121293322,HI,Hawaii,Hawaii,,1,1,8.86
+5,DRTO,May,Dry Tortugas National Park,7005,2651,86,74,4,-82.866554231556,24.6543956186476,FL,Florida,Southeast,,1,1,8.86
+5,EVER,May,Everglades National Park,65898,2651,54,29,5,-80.9534963862279,25.2722561640483,FL,Florida,Southeast,,1,1,8.86
+5,BISC,May,Biscayne National Park,55182,2651,79,73,7,-80.2183015926945,25.4696892466471,FL,Florida,Southeast,,1,1,8.86
+5,BIBE,May,Big Bend National Park,35361,2651,93,71,5,-103.229789673023,29.298177668898,TX,Texas,South,,1,1,8.86
+5,GUMO,May,Guadalupe Mountains National Park,16488,2651,64,46,6,-104.884347170347,31.9233842093917,TX,Texas,South,,1,1,8.86
+5,CAVE,May,Carlsbad Caverns National Park,40478,2651,79,54,3,-104.527765634579,32.1523427539914,NM,New Mexico,Southwest,,1,1,8.86
+5,SAGU,May,Saguaro National Park,54852,2651,91,59,0,-110.608314061594,32.1788360853936,AZ,Arizona,Southwest,,1,1,8.86
+5,WHSA,May,White Sands National Monument,53384,2651,88,49,1,-106.335072235936,32.7791333760192,NM,New Mexico,Southwest,,1,1,8.86
+5,CONG,May,Congaree National Park,15377,2651,81,59,8,-80.8183523261644,33.8062043146765,SC,South Carolina,Southeast,,1,1,8.86
+5,JOTR,May,Joshua Tree National Park,174427,2651,86,55,0,-116.159070843561,33.9809652285081,CA,California,West,,1,1,8.86
+5,CHIS,May,Channel Islands National Park,30348,2651,67,44,6,-119.725169845147,34.003929782292,CA,California,West,,1,1,8.86
+5,HOSP,May,Hot Springs National Park,129119,2651,80,58,9,-93.0897218510827,34.5111382250636,AR,Arkansas,South,,1,1,8.86
+5,PEFO,May,Petrified Forest National Park,70514,2651,80,43,1,-109.674717745724,34.9886818040188,AZ,Arizona,Southwest,,1,1,8.86
+5,GRSM,May,Great Smoky Mountains National Park,913186,2651,64,45,11,-83.7710478077257,35.5338112634119,NC,North Carolina,Southeast,,1,1,8.86
+5,GRCA,May,Grand Canyon National Park,515934,2651,57,29,9,-112.195863320502,36.1866831412135,AZ,Arizona,Southwest,,1,1,8.86
+5,DEVA,May,Death Valley National Park,106888,2651,100,72,0,-117.135111544358,36.4874191006716,CA,California,West,,1,1,8.86
+5,PINN,May,Pinnacles National Monument,27774,2651,78,41,1,-121.181100883266,36.4901310064952,CA,California,West,,1,1,8.86
+5,MACA,May,Mammoth Cave National Park,49432,2651,79,54,9,-86.1309019819107,37.197604576779,KY,Kentucky,Central,,1,1,8.86
+5,MEVE,May,Mesa Verde National Park,57392,2651,67,39,4,-108.500928885895,37.2235131532065,CO,Colorado,Southwest,,1,1,8.86
+5,ZION,May,Zion National Park,406513,2651,83,52,5,-112.954431628695,37.2557094971311,UT,Utah,Southwest,,1,1,8.86
+5,BRCA,May,Bryce Canyon National Park,227251,2651,62,32,3,-112.182668887441,37.5839914387525,UT,Utah,Southwest,,1,1,8.86
+5,GRSA,May,Great Sand Dunes National Park & Preserve,48298,2651,64,45,11,-105.578326305192,37.7599427010072,CO,Colorado,Southwest,,1,1,8.86
+5,CARE,May,Capitol Reef National Park,139897,2651,68,45,3,-111.003292945773,37.7959925350174,UT,Utah,Southwest,,1,1,8.86
+5,YOSE,May,Yosemite National Park,391518,2651,73,44,3,-119.556007294598,37.8489365691181,CA,California,West,,1,1,8.86
+5,CANY,May,Canyonlands National Park,89789,2651,76,52,3,-109.883146255275,38.2720728762148,UT,Utah,Southwest,,1,1,8.86
+5,SHEN,May,Shenandoah National Park,137422,2651,71,48,18,-78.6761996287734,38.281082106749,VA,Virginia,Southeast,,1,1,8.86
+5,BLCA,May,Black Canyon Of The Gunnison National Park,30804,2651,74,44,9,-107.723980166415,38.5773922528943,CO,Colorado,Southwest,,1,1,8.86
+5,ARCH,May,Arches National Park,173847,2651,79,49,3,-109.595456027609,38.7079176322515,UT,Utah,Southwest,,1,1,8.86
+5,WOTR,May,Wolf Trap National Park for the Performing Arts,28342,2651,72,53,9,-77.2635541016389,38.9379319964751,VA,Virginia,Southeast,,1,1,8.86
+5,GRBA,May,Great Basin National Park,12562,2651,67,38,4,-114.257978174487,38.9461737831271,NV,Nevada,West,,1,1,8.86
+5,ROMO,May,Rocky Mountain National Park,242811,2651,51,30,13,-105.698385322314,40.3557983972215,CO,Colorado,Southwest,,1,1,8.86
+5,LAVO,May,Lassen Volcanic National Park,27318,2651,58,31,6,-121.412126649044,40.4862202609082,CA,California,West,,1,1,8.86
+5,CUVA,May,Cuyahoga Valley National Park,262946,2651,71,52,9,-81.5690344075238,41.2607133550007,OH,Ohio,Central,,1,1,8.86
+5,INDU,May,Indiana Dunes National Lakeshore,167945,2651,69,49,9,-87.0324152909807,41.661457848148,IN,Indiana,Central,,1,1,8.86
+5,CRLA,May,Crater Lake National Park,40591,2651,55,32,10,-122.135258704593,42.9444360519401,OR,Oregon,Northwest,,1,1,8.86
+5,WICA,May,Wind Cave National Park,51615,2651,67,41,9,-103.428776416894,43.6078717812364,SD,South Dakota,West North Central,,1,1,8.86
+5,GRTE,May,Grand Teton National Park,222144,2651,47,26,7,-110.705466560382,43.8185356536819,WY,Wyoming,West North Central,,1,1,8.86
+5,BADL,May,Badlands National Park,72077,2651,66,45,9,-102.393945095541,43.8340624087368,SD,South Dakota,West North Central,,1,1,8.86
+5,ACAD,May,Acadia National Park,184923,2651,61,40,10,-68.244111977338,44.3507513883282,ME,Maine,Northeast,,1,1,8.86
+5,YELL,May,Yellowstone National Park,346142,2651,53,28,12,-110.490083022759,44.5830322172137,WY,Wyoming,West North Central,,1,1,8.86
+5,MORA,May,Mount Rainier National Park,73916,2651,38,22,15,-121.70574507947,46.8605591990317,WA,Washington,Northwest,,1,1,8.86
+5,THRO,May,Theodore Roosevelt National Park,61577,2651,69,40,7,-103.459250806364,46.9536209666581,ND,North Dakota,West North Central,,1,1,8.86
+5,OLYM,May,Olympic National Park,293793,2651,49,33,11,-123.619445162923,47.7945352044965,WA,Washington,Northwest,,1,1,8.86
+5,ISRO,May,Isle Royale National Park,832,2651,57,39,13,-89.1044184773109,47.9008395823696,MI,Michigan,East North Central,,1,1,8.86
+5,VOYA,May,Voyageurs National Park,28042,2651,62,38,9,-92.9805712996976,48.5171693221999,MN,Minnesota,East North Central,,1,1,8.86
+5,GLAC,May,Glacier National Park,139128,2651,93,63,1,-113.800791595485,48.6842687606688,MT,Montana,West North Central,,1,1,8.86
+5,NOCA,May,North Cascades National Park,979,2651,42,21,12,-121.347557783632,48.8330394098154,WA,Washington,Northwest,,1,1,8.86
+5,KATM,May,Katmai National Park & Preserve,116,2651,53,40,15,-155.013410503509,58.6225739667646,AK,Alaska,Alaska,,1,1,8.86
+5,GLBA,May,Glacier Bay National Park & Preserve,80489,2651,55,34,14,-136.840717328383,58.8008647444753,AK,Alaska,Alaska,,1,1,8.86
+5,KEFJ,May,Kenai Fjords National Park,22183,2651,34,24,15,-149.881524488685,59.9538968876318,AK,Alaska,Alaska,,1,1,8.86
+5,LACL,May,Lake Clark National Park & Preserve,587,2651,47,27,17,-153.601844152823,60.6467969093566,AK,Alaska,Alaska,,1,1,8.86
+5,WRST,May,Wrangell - St Elias National Park & Preserve,4511,2651,16,6,6,-142.603571113694,61.4184393795561,AK,Alaska,Alaska,,1,1,8.86
+5,DENA,May,Denali National Park & Preserve,46554,2651,53,33,9,-151.052635502821,63.2977743600459,AK,Alaska,Alaska,,1,1,8.86
+5,KOVA,May,Kobuk Valley National Park,863,2651,52,31,10,-159.063083346586,67.2826365277018,AK,Alaska,Alaska,,1,1,8.86
+5,GAAR,May,Gates Of The Arctic National Park & Preserve,263,2651,53,33,9,-153.264132316988,67.9192854407937,AK,Alaska,Alaska,,1,1,8.86
+6,NPSA,June,National Park of American Samoa,1578,2693,81,73,11,-169.45380760527,-14.2397277326939,AS,American Samoa,American Samoa,,23,0,8.57
+6,VIIS,June,Virgin Islands National Park,30100,2693,86,73,8,-64.7711104889969,18.3537986172337,VI,Virgin Islands,Virgin Islands,,23,0,8.57
+6,HAVO,June,Hawaii Volcanoes National Park,127055,2693,88,66,7,-155.211822871939,19.3261421561552,HI,Hawaii,Hawaii,,23,0,8.57
+6,HALE,June,Haleakala National Park,96579,2693,71,54,17,-156.147093143192,20.7045121293322,HI,Hawaii,Hawaii,,23,0,8.57
+6,DRTO,June,Dry Tortugas National Park,6863,2693,90,77,6,-82.866554231556,24.6543956186476,FL,Florida,Southeast,,23,0,8.57
+6,EVER,June,Everglades National Park,56545,2693,67,41,6,-80.9534963862279,25.2722561640483,FL,Florida,Southeast,,23,0,8.57
+6,BISC,June,Biscayne National Park,53106,2693,83,76,11,-80.2183015926945,25.4696892466471,FL,Florida,Southeast,,23,0,8.57
+6,BIBE,June,Big Bend National Park,19592,2693,97,76,6,-103.229789673023,29.298177668898,TX,Texas,South,,23,0,8.57
+6,GUMO,June,Guadalupe Mountains National Park,13682,2693,66,48,5,-104.884347170347,31.9233842093917,TX,Texas,South,,23,0,8.57
+6,CAVE,June,Carlsbad Caverns National Park,55050,2693,87,61,3,-104.527765634579,32.1523427539914,NM,New Mexico,Southwest,,23,0,8.57
+6,SAGU,June,Saguaro National Park,36758,2693,101,69,0,-110.608314061594,32.1788360853936,AZ,Arizona,Southwest,,23,0,8.57
+6,WHSA,June,White Sands National Monument,49375,2693,97,59,2,-106.335072235936,32.7791333760192,NM,New Mexico,Southwest,,23,0,8.57
+6,CONG,June,Congaree National Park,11152,2693,89,68,9,-80.8183523261644,33.8062043146765,SC,South Carolina,Southeast,,23,0,8.57
+6,JOTR,June,Joshua Tree National Park,107238,2693,97,66,0,-116.159070843561,33.9809652285081,CA,California,West,,23,0,8.57
+6,CHIS,June,Channel Islands National Park,35436,2693,71,46,6,-119.725169845147,34.003929782292,CA,California,West,,23,0,8.57
+6,HOSP,June,Hot Springs National Park,150704,2693,88,66,7,-93.0897218510827,34.5111382250636,AR,Arkansas,South,,23,0,8.57
+6,PEFO,June,Petrified Forest National Park,100559,2693,91,53,1,-109.674717745724,34.9886818040188,AZ,Arizona,Southwest,,23,0,8.57
+6,GRSM,June,Great Smoky Mountains National Park,1315801,2693,69,53,13,-83.7710478077257,35.5338112634119,NC,North Carolina,Southeast,,23,0,8.57
+6,GRCA,June,Grand Canyon National Park,618614,2693,68,36,7,-112.195863320502,36.1866831412135,AZ,Arizona,Southwest,,23,0,8.57
+6,DEVA,June,Death Valley National Park,88332,2693,110,82,0,-117.135111544358,36.4874191006716,CA,California,West,,23,0,8.57
+6,PINN,June,Pinnacles National Monument,20216,2693,86,44,0,-121.181100883266,36.4901310064952,CA,California,West,,23,0,8.57
+6,MACA,June,Mammoth Cave National Park,75129,2693,86,62,8,-86.1309019819107,37.197604576779,KY,Kentucky,Central,,23,0,8.57
+6,MEVE,June,Mesa Verde National Park,101179,2693,79,49,2,-108.500928885895,37.2235131532065,CO,Colorado,Southwest,,23,0,8.57
+6,ZION,June,Zion National Park,451594,2693,93,60,3,-112.954431628695,37.2557094971311,UT,Utah,Southwest,,23,0,8.57
+6,BRCA,June,Bryce Canyon National Park,288497,2693,74,40,2,-112.182668887441,37.5839914387525,UT,Utah,Southwest,,23,0,8.57
+6,GRSA,June,Great Sand Dunes National Park & Preserve,69621,2693,69,53,13,-105.578326305192,37.7599427010072,CO,Colorado,Southwest,,23,0,8.57
+6,CARE,June,Capitol Reef National Park,115923,2693,84,57,1,-111.003292945773,37.7959925350174,UT,Utah,Southwest,,23,0,8.57
+6,YOSE,June,Yosemite National Park,541315,2693,82,50,1,-119.556007294598,37.8489365691181,CA,California,West,,23,0,8.57
+6,CANY,June,Canyonlands National Park,73544,2693,88,64,1,-109.883146255275,38.2720728762148,UT,Utah,Southwest,,23,0,8.57
+6,SHEN,June,Shenandoah National Park,146630,2693,78,57,14,-78.6761996287734,38.281082106749,VA,Virginia,Southeast,,23,0,8.57
+6,BLCA,June,Black Canyon Of The Gunnison National Park,36707,2693,86,53,5,-107.723980166415,38.5773922528943,CO,Colorado,Southwest,,23,0,8.57
+6,ARCH,June,Arches National Park,180845,2693,92,59,1,-109.595456027609,38.7079176322515,UT,Utah,Southwest,,23,0,8.57
+6,WOTR,June,Wolf Trap National Park for the Performing Arts,98350,2693,80,62,8,-77.2635541016389,38.9379319964751,VA,Virginia,Southeast,,23,0,8.57
+6,GRBA,June,Great Basin National Park,16632,2693,78,47,3,-114.257978174487,38.9461737831271,NV,Nevada,West,,23,0,8.57
+6,ROMO,June,Rocky Mountain National Park,605399,2693,63,39,7,-105.698385322314,40.3557983972215,CO,Colorado,Southwest,,23,0,8.57
+6,LAVO,June,Lassen Volcanic National Park,62189,2693,67,36,3,-121.412126649044,40.4862202609082,CA,California,West,,23,0,8.57
+6,CUVA,June,Cuyahoga Valley National Park,260270,2693,80,61,9,-81.5690344075238,41.2607133550007,OH,Ohio,Central,,23,0,8.57
+6,INDU,June,Indiana Dunes National Lakeshore,248749,2693,78,59,8,-87.0324152909807,41.661457848148,IN,Indiana,Central,,23,0,8.57
+6,CRLA,June,Crater Lake National Park,86780,2693,62,36,6,-122.135258704593,42.9444360519401,OR,Oregon,Northwest,,23,0,8.57
+6,WICA,June,Wind Cave National Park,104340,2693,77,50,8,-103.428776416894,43.6078717812364,SD,South Dakota,West North Central,,23,0,8.57
+6,GRTE,June,Grand Teton National Park,546611,2693,59,37,5,-110.705466560382,43.8185356536819,WY,Wyoming,West North Central,,23,0,8.57
+6,BADL,June,Badlands National Park,188208,2693,78,56,9,-102.393945095541,43.8340624087368,SD,South Dakota,West North Central,,23,0,8.57
+6,ACAD,June,Acadia National Park,381929,2693,71,49,8,-68.244111977338,44.3507513883282,ME,Maine,Northeast,,23,0,8.57
+6,YELL,June,Yellowstone National Park,731053,2693,63,34,10,-110.490083022759,44.5830322172137,WY,Wyoming,West North Central,,23,0,8.57
+6,MORA,June,Mount Rainier National Park,170204,2693,43,27,13,-121.70574507947,46.8605591990317,WA,Washington,Northwest,,23,0,8.57
+6,THRO,June,Theodore Roosevelt National Park,110084,2693,79,49,8,-103.459250806364,46.9536209666581,ND,North Dakota,West North Central,,23,0,8.57
+6,OLYM,June,Olympic National Park,411846,2693,54,37,6,-123.619445162923,47.7945352044965,WA,Washington,Northwest,,23,0,8.57
+6,ISRO,June,Isle Royale National Park,3522,2693,68,48,13,-89.1044184773109,47.9008395823696,MI,Michigan,East North Central,,23,0,8.57
+6,VOYA,June,Voyageurs National Park,47307,2693,71,49,10,-92.9805712996976,48.5171693221999,MN,Minnesota,East North Central,,23,0,8.57
+6,GLAC,June,Glacier National Park,421579,2693,104,73,1,-113.800791595485,48.6842687606688,MT,Montana,West North Central,,23,0,8.57
+6,NOCA,June,North Cascades National Park,2868,2693,47,26,11,-121.347557783632,48.8330394098154,WA,Washington,Northwest,,23,0,8.57
+6,KATM,June,Katmai National Park & Preserve,5521,2693,60,47,17,-155.013410503509,58.6225739667646,AK,Alaska,Alaska,,23,0,8.57
+6,GLBA,June,Glacier Bay National Park & Preserve,111212,2693,61,39,13,-136.840717328383,58.8008647444753,AK,Alaska,Alaska,,23,0,8.57
+6,KEFJ,June,Kenai Fjords National Park,69330,2693,40,30,15,-149.881524488685,59.9538968876318,AK,Alaska,Alaska,,23,0,8.57
+6,LACL,June,Lake Clark National Park & Preserve,2423,2693,56,35,22,-153.601844152823,60.6467969093566,AK,Alaska,Alaska,,23,0,8.57
+6,WRST,June,Wrangell - St Elias National Park & Preserve,16860,2693,23,13,10,-142.603571113694,61.4184393795561,AK,Alaska,Alaska,,23,0,8.57
+6,DENA,June,Denali National Park & Preserve,125893,2693,62,41,7,-151.052635502821,63.2977743600459,AK,Alaska,Alaska,,23,0,8.57
+6,KOVA,June,Kobuk Valley National Park,1205,2693,67,46,11,-159.063083346586,67.2826365277018,AK,Alaska,Alaska,,23,0,8.57
+6,GAAR,June,Gates Of The Arctic National Park & Preserve,2089,2693,62,41,7,-153.264132316988,67.9192854407937,AK,Alaska,Alaska,,23,0,8.57
+7,NPSA,July,National Park of American Samoa,1822,2748,80,72,10,-169.45380760527,-14.2397277326939,AS,American Samoa,American Samoa,,31,1,8.86
+7,VIIS,July,Virgin Islands National Park,30816,2748,87,73,12,-64.7711104889969,18.3537986172337,VI,Virgin Islands,Virgin Islands,,31,1,8.86
+7,HAVO,July,Hawaii Volcanoes National Park,143348,2748,93,69,7,-155.211822871939,19.3261421561552,HI,Hawaii,Hawaii,,31,1,8.86
+7,HALE,July,Haleakala National Park,101207,2748,72,55,19,-156.147093143192,20.7045121293322,HI,Hawaii,Hawaii,,31,1,8.86
+7,DRTO,July,Dry Tortugas National Park,7079,2748,91,78,6,-82.866554231556,24.6543956186476,FL,Florida,Southeast,,31,1,8.86
+7,EVER,July,Everglades National Park,58166,2748,67,43,8,-80.9534963862279,25.2722561640483,FL,Florida,Southeast,,31,1,8.86
+7,BISC,July,Biscayne National Park,61592,2748,84,78,9,-80.2183015926945,25.4696892466471,FL,Florida,Southeast,,31,1,8.86
+7,BIBE,July,Big Bend National Park,17420,2748,95,76,7,-103.229789673023,29.298177668898,TX,Texas,South,,31,1,8.86
+7,GUMO,July,Guadalupe Mountains National Park,13908,2748,67,49,7,-104.884347170347,31.9233842093917,TX,Texas,South,,31,1,8.86
+7,CAVE,July,Carlsbad Caverns National Park,73281,2748,87,63,4,-104.527765634579,32.1523427539914,NM,New Mexico,Southwest,,31,1,8.86
+7,SAGU,July,Saguaro National Park,41814,2748,100,73,5,-110.608314061594,32.1788360853936,AZ,Arizona,Southwest,,31,1,8.86
+7,WHSA,July,White Sands National Monument,60123,2748,97,64,5,-106.335072235936,32.7791333760192,NM,New Mexico,Southwest,,31,1,8.86
+7,CONG,July,Congaree National Park,9016,2748,91,71,9,-80.8183523261644,33.8062043146765,SC,South Carolina,Southeast,,31,1,8.86
+7,JOTR,July,Joshua Tree National Park,102074,2748,99,73,0,-116.159070843561,33.9809652285081,CA,California,West,,31,1,8.86
+7,CHIS,July,Channel Islands National Park,43167,2748,75,50,9,-119.725169845147,34.003929782292,CA,California,West,,31,1,8.86
+7,HOSP,July,Hot Springs National Park,170647,2748,93,69,7,-93.0897218510827,34.5111382250636,AR,Arkansas,South,,31,1,8.86
+7,PEFO,July,Petrified Forest National Park,102180,2748,93,60,5,-109.674717745724,34.9886818040188,AZ,Arizona,Southwest,,31,1,8.86
+7,GRSM,July,Great Smoky Mountains National Park,1446340,2748,71,55,14,-83.7710478077257,35.5338112634119,NC,North Carolina,Southeast,,31,1,8.86
+7,GRCA,July,Grand Canyon National Park,724884,2748,77,41,5,-112.195863320502,36.1866831412135,AZ,Arizona,Southwest,,31,1,8.86
+7,DEVA,July,Death Valley National Park,110712,2748,116,88,0,-117.135111544358,36.4874191006716,CA,California,West,,31,1,8.86
+7,PINN,July,Pinnacles National Monument,20288,2748,93,48,0,-121.181100883266,36.4901310064952,CA,California,West,,31,1,8.86
+7,MACA,July,Mammoth Cave National Park,105833,2748,89,66,8,-86.1309019819107,37.197604576779,KY,Kentucky,Central,,31,1,8.86
+7,MEVE,July,Mesa Verde National Park,111223,2748,84,55,6,-108.500928885895,37.2235131532065,CO,Colorado,Southwest,,31,1,8.86
+7,ZION,July,Zion National Park,471867,2748,100,68,5,-112.954431628695,37.2557094971311,UT,Utah,Southwest,,31,1,8.86
+7,BRCA,July,Bryce Canyon National Park,302141,2748,79,47,5,-112.182668887441,37.5839914387525,UT,Utah,Southwest,,31,1,8.86
+7,GRSA,July,Great Sand Dunes National Park & Preserve,69774,2748,71,55,14,-105.578326305192,37.7599427010072,CO,Colorado,Southwest,,31,1,8.86
+7,CARE,July,Capitol Reef National Park,111185,2748,86,62,6,-111.003292945773,37.7959925350174,UT,Utah,Southwest,,31,1,8.86
+7,YOSE,July,Yosemite National Park,646820,2748,90,56,1,-119.556007294598,37.8489365691181,CA,California,West,,31,1,8.86
+7,CANY,July,Canyonlands National Park,62722,2748,94,69,4,-109.883146255275,38.2720728762148,UT,Utah,Southwest,,31,1,8.86
+7,SHEN,July,Shenandoah National Park,174428,2748,82,61,16,-78.6761996287734,38.281082106749,VA,Virginia,Southeast,,31,1,8.86
+7,BLCA,July,Black Canyon Of The Gunnison National Park,41363,2748,91,58,8,-107.723980166415,38.5773922528943,CO,Colorado,Southwest,,31,1,8.86
+7,ARCH,July,Arches National Park,177800,2748,97,66,3,-109.595456027609,38.7079176322515,UT,Utah,Southwest,,31,1,8.86
+7,WOTR,July,Wolf Trap National Park for the Performing Arts,125184,2748,84,66,8,-77.2635541016389,38.9379319964751,VA,Virginia,Southeast,,31,1,8.86
+7,GRBA,July,Great Basin National Park,23027,2748,82,52,7,-114.257978174487,38.9461737831271,NV,Nevada,West,,31,1,8.86
+7,ROMO,July,Rocky Mountain National Park,803248,2748,69,45,8,-105.698385322314,40.3557983972215,CO,Colorado,Southwest,,31,1,8.86
+7,LAVO,July,Lassen Volcanic National Park,104410,2748,77,41,1,-121.412126649044,40.4862202609082,CA,California,West,,31,1,8.86
+7,CUVA,July,Cuyahoga Valley National Park,295223,2748,83,65,7,-81.5690344075238,41.2607133550007,OH,Ohio,Central,,31,1,8.86
+7,INDU,July,Indiana Dunes National Lakeshore,373970,2748,82,64,7,-87.0324152909807,41.661457848148,IN,Indiana,Central,,31,1,8.86
+7,CRLA,July,Crater Lake National Park,150523,2748,73,44,1,-122.135258704593,42.9444360519401,OR,Oregon,Northwest,,31,1,8.86
+7,WICA,July,Wind Cave National Park,118081,2748,85,56,7,-103.428776416894,43.6078717812364,SD,South Dakota,West North Central,,31,1,8.86
+7,GRTE,July,Grand Teton National Park,706847,2748,67,46,6,-110.705466560382,43.8185356536819,WY,Wyoming,West North Central,,31,1,8.86
+7,BADL,July,Badlands National Park,237276,2748,87,64,6,-102.393945095541,43.8340624087368,SD,South Dakota,West North Central,,31,1,8.86
+7,ACAD,July,Acadia National Park,632347,2748,76,55,7,-68.244111977338,44.3507513883282,ME,Maine,Northeast,,31,1,8.86
+7,YELL,July,Yellowstone National Park,923977,2748,73,39,5,-110.490083022759,44.5830322172137,WY,Wyoming,West North Central,,31,1,8.86
+7,MORA,July,Mount Rainier National Park,292305,2748,52,33,7,-121.70574507947,46.8605591990317,WA,Washington,Northwest,,31,1,8.86
+7,THRO,July,Theodore Roosevelt National Park,139033,2748,87,55,5,-103.459250806364,46.9536209666581,ND,North Dakota,West North Central,,31,1,8.86
+7,OLYM,July,Olympic National Park,525613,2748,62,44,2,-123.619445162923,47.7945352044965,WA,Washington,Northwest,,31,1,8.86
+7,ISRO,July,Isle Royale National Park,6161,2748,74,55,12,-89.1044184773109,47.9008395823696,MI,Michigan,East North Central,,31,1,8.86
+7,VOYA,July,Voyageurs National Park,55289,2748,75,54,8,-92.9805712996976,48.5171693221999,MN,Minnesota,East North Central,,31,1,8.86
+7,GLAC,July,Glacier National Park,746399,2748,107,77,3,-113.800791595485,48.6842687606688,MT,Montana,West North Central,,31,1,8.86
+7,NOCA,July,North Cascades National Park,7511,2748,53,29,8,-121.347557783632,48.8330394098154,WA,Washington,Northwest,,31,1,8.86
+7,KATM,July,Katmai National Park & Preserve,18314,2748,63,51,19,-155.013410503509,58.6225739667646,AK,Alaska,Alaska,,31,1,8.86
+7,GLBA,July,Glacier Bay National Park & Preserve,124957,2748,70,45,8,-136.840717328383,58.8008647444753,AK,Alaska,Alaska,,31,1,8.86
+7,KEFJ,July,Kenai Fjords National Park,93064,2748,43,35,15,-149.881524488685,59.9538968876318,AK,Alaska,Alaska,,31,1,8.86
+7,LACL,July,Lake Clark National Park & Preserve,4032,2748,59,39,21,-153.601844152823,60.6467969093566,AK,Alaska,Alaska,,31,1,8.86
+7,WRST,July,Wrangell - St Elias National Park & Preserve,24112,2748,27,17,13,-142.603571113694,61.4184393795561,AK,Alaska,Alaska,,31,1,8.86
+7,DENA,July,Denali National Park & Preserve,147110,2748,63,44,12,-151.052635502821,63.2977743600459,AK,Alaska,Alaska,,31,1,8.86
+7,KOVA,July,Kobuk Valley National Park,1462,2748,68,49,14,-159.063083346586,67.2826365277018,AK,Alaska,Alaska,,31,1,8.86
+7,GAAR,July,Gates Of The Arctic National Park & Preserve,3170,2748,63,44,12,-153.264132316988,67.9192854407937,AK,Alaska,Alaska,,31,1,8.86
+8,NPSA,August,National Park of American Samoa,1781,2737,81,72,10,-169.45380760527,-14.2397277326939,AS,American Samoa,American Samoa,,31,0,8.86
+8,VIIS,August,Virgin Islands National Park,23180,2737,87,73,12,-64.7711104889969,18.3537986172337,VI,Virgin Islands,Virgin Islands,,31,0,8.86
+8,HAVO,August,Hawaii Volcanoes National Park,132941,2737,92,68,6,-155.211822871939,19.3261421561552,HI,Hawaii,Hawaii,,31,0,8.86
+8,HALE,August,Haleakala National Park,90688,2737,73,55,17,-156.147093143192,20.7045121293322,HI,Hawaii,Hawaii,,31,0,8.86
+8,DRTO,August,Dry Tortugas National Park,5550,2737,92,79,8,-82.866554231556,24.6543956186476,FL,Florida,Southeast,,31,0,8.86
+8,EVER,August,Everglades National Park,62007,2737,60,38,10,-80.9534963862279,25.2722561640483,FL,Florida,Southeast,,31,0,8.86
+8,BISC,August,Biscayne National Park,50703,2737,85,78,10,-80.2183015926945,25.4696892466471,FL,Florida,Southeast,,31,0,8.86
+8,BIBE,August,Big Bend National Park,17697,2737,94,75,7,-103.229789673023,29.298177668898,TX,Texas,South,,31,0,8.86
+8,GUMO,August,Guadalupe Mountains National Park,12566,2737,67,49,6,-104.884347170347,31.9233842093917,TX,Texas,South,,31,0,8.86
+8,CAVE,August,Carlsbad Caverns National Park,41957,2737,85,62,5,-104.527765634579,32.1523427539914,NM,New Mexico,Southwest,,31,0,8.86
+8,SAGU,August,Saguaro National Park,41111,2737,98,72,6,-110.608314061594,32.1788360853936,AZ,Arizona,Southwest,,31,0,8.86
+8,WHSA,August,White Sands National Monument,45078,2737,94,62,5,-106.335072235936,32.7791333760192,NM,New Mexico,Southwest,,31,0,8.86
+8,CONG,August,Congaree National Park,9586,2737,91,71,9,-80.8183523261644,33.8062043146765,SC,South Carolina,Southeast,,31,0,8.86
+8,JOTR,August,Joshua Tree National Park,105866,2737,99,72,1,-116.159070843561,33.9809652285081,CA,California,West,,31,0,8.86
+8,CHIS,August,Channel Islands National Park,37278,2737,77,50,6,-119.725169845147,34.003929782292,CA,California,West,,31,0,8.86
+8,HOSP,August,Hot Springs National Park,162772,2737,92,68,6,-93.0897218510827,34.5111382250636,AR,Arkansas,South,,31,0,8.86
+8,PEFO,August,Petrified Forest National Park,78071,2737,90,59,5,-109.674717745724,34.9886818040188,AZ,Arizona,Southwest,,31,0,8.86
+8,GRSM,August,Great Smoky Mountains National Park,1151866,2737,70,55,11,-83.7710478077257,35.5338112634119,NC,North Carolina,Southeast,,31,0,8.86
+8,GRCA,August,Grand Canyon National Park,686707,2737,76,39,6,-112.195863320502,36.1866831412135,AZ,Arizona,Southwest,,31,0,8.86
+8,DEVA,August,Death Valley National Park,121792,2737,114,86,0,-117.135111544358,36.4874191006716,CA,California,West,,31,0,8.86
+8,PINN,August,Pinnacles National Monument,21074,2737,93,47,0,-121.181100883266,36.4901310064952,CA,California,West,,31,0,8.86
+8,MACA,August,Mammoth Cave National Park,73892,2737,88,64,7,-86.1309019819107,37.197604576779,KY,Kentucky,Central,,31,0,8.86
+8,MEVE,August,Mesa Verde National Park,91042,2737,81,53,6,-108.500928885895,37.2235131532065,CO,Colorado,Southwest,,31,0,8.86
+8,ZION,August,Zion National Park,425225,2737,97,66,6,-112.954431628695,37.2557094971311,UT,Utah,Southwest,,31,0,8.86
+8,BRCA,August,Bryce Canyon National Park,287877,2737,76,45,7,-112.182668887441,37.5839914387525,UT,Utah,Southwest,,31,0,8.86
+8,GRSA,August,Great Sand Dunes National Park & Preserve,56570,2737,70,55,11,-105.578326305192,37.7599427010072,CO,Colorado,Southwest,,31,0,8.86
+8,CARE,August,Capitol Reef National Park,100688,2737,83,59,5,-111.003292945773,37.7959925350174,UT,Utah,Southwest,,31,0,8.86
+8,YOSE,August,Yosemite National Park,631632,2737,90,55,0,-119.556007294598,37.8489365691181,CA,California,West,,31,0,8.86
+8,CANY,August,Canyonlands National Park,64234,2737,91,67,3,-109.883146255275,38.2720728762148,UT,Utah,Southwest,,31,0,8.86
+8,SHEN,August,Shenandoah National Park,173922,2737,80,59,16,-78.6761996287734,38.281082106749,VA,Virginia,Southeast,,31,0,8.86
+8,BLCA,August,Black Canyon Of The Gunnison National Park,38036,2737,89,56,8,-107.723980166415,38.5773922528943,CO,Colorado,Southwest,,31,0,8.86
+8,ARCH,August,Arches National Park,164564,2737,94,64,3,-109.595456027609,38.7079176322515,UT,Utah,Southwest,,31,0,8.86
+8,WOTR,August,Wolf Trap National Park for the Performing Arts,115991,2737,83,65,7,-77.2635541016389,38.9379319964751,VA,Virginia,Southeast,,31,0,8.86
+8,GRBA,August,Great Basin National Park,18004,2737,79,50,7,-114.257978174487,38.9461737831271,NV,Nevada,West,,31,0,8.86
+8,ROMO,August,Rocky Mountain National Park,697238,2737,66,44,9,-105.698385322314,40.3557983972215,CO,Colorado,Southwest,,31,0,8.86
+8,LAVO,August,Lassen Volcanic National Park,94659,2737,75,38,1,-121.412126649044,40.4862202609082,CA,California,West,,31,0,8.86
+8,CUVA,August,Cuyahoga Valley National Park,288128,2737,82,64,7,-81.5690344075238,41.2607133550007,OH,Ohio,Central,,31,0,8.86
+8,INDU,August,Indiana Dunes National Lakeshore,291781,2737,80,62,8,-87.0324152909807,41.661457848148,IN,Indiana,Central,,31,0,8.86
+8,CRLA,August,Crater Lake National Park,127839,2737,71,42,2,-122.135258704593,42.9444360519401,OR,Oregon,Northwest,,31,0,8.86
+8,WICA,August,Wind Cave National Park,101925,2737,84,55,6,-103.428776416894,43.6078717812364,SD,South Dakota,West North Central,,31,0,8.86
+8,GRTE,August,Grand Teton National Park,637316,2737,65,44,5,-110.705466560382,43.8185356536819,WY,Wyoming,West North Central,,31,0,8.86
+8,BADL,August,Badlands National Park,213792,2737,85,61,6,-102.393945095541,43.8340624087368,SD,South Dakota,West North Central,,31,0,8.86
+8,ACAD,August,Acadia National Park,673294,2737,75,55,6,-68.244111977338,44.3507513883282,ME,Maine,Northeast,,31,0,8.86
+8,YELL,August,Yellowstone National Park,818438,2737,71,37,6,-110.490083022759,44.5830322172137,WY,Wyoming,West North Central,,31,0,8.86
+8,MORA,August,Mount Rainier National Park,304280,2737,53,34,7,-121.70574507947,46.8605591990317,WA,Washington,Northwest,,31,0,8.86
+8,THRO,August,Theodore Roosevelt National Park,126706,2737,86,53,4,-103.459250806364,46.9536209666581,ND,North Dakota,West North Central,,31,0,8.86
+8,OLYM,August,Olympic National Park,740282,2737,62,44,3,-123.619445162923,47.7945352044965,WA,Washington,Northwest,,31,0,8.86
+8,ISRO,August,Isle Royale National Park,7128,2737,71,55,11,-89.1044184773109,47.9008395823696,MI,Michigan,East North Central,,31,0,8.86
+8,VOYA,August,Voyageurs National Park,49224,2737,74,53,8,-92.9805712996976,48.5171693221999,MN,Minnesota,East North Central,,31,0,8.86
+8,GLAC,August,Glacier National Park,674702,2737,103,75,4,-113.800791595485,48.6842687606688,MT,Montana,West North Central,,31,0,8.86
+8,NOCA,August,North Cascades National Park,8248,2737,54,30,9,-121.347557783632,48.8330394098154,WA,Washington,Northwest,,31,0,8.86
+8,KATM,August,Katmai National Park & Preserve,9381,2737,61,51,19,-155.013410503509,58.6225739667646,AK,Alaska,Alaska,,31,0,8.86
+8,GLBA,August,Glacier Bay National Park & Preserve,123072,2737,70,45,7,-136.840717328383,58.8008647444753,AK,Alaska,Alaska,,31,0,8.86
+8,KEFJ,August,Kenai Fjords National Park,74081,2737,41,34,19,-149.881524488685,59.9538968876318,AK,Alaska,Alaska,,31,0,8.86
+8,LACL,August,Lake Clark National Park & Preserve,4173,2737,56,38,22,-153.601844152823,60.6467969093566,AK,Alaska,Alaska,,31,0,8.86
+8,WRST,August,Wrangell - St Elias National Park & Preserve,21677,2737,23,15,12,-142.603571113694,61.4184393795561,AK,Alaska,Alaska,,31,0,8.86
+8,DENA,August,Denali National Park & Preserve,135430,2737,59,42,16,-151.052635502821,63.2977743600459,AK,Alaska,Alaska,,31,0,8.86
+8,KOVA,August,Kobuk Valley National Park,1555,2737,60,43,17,-159.063083346586,67.2826365277018,AK,Alaska,Alaska,,31,0,8.86
+8,GAAR,August,Gates Of The Arctic National Park & Preserve,3654,2737,59,42,16,-153.264132316988,67.9192854407937,AK,Alaska,Alaska,,31,0,8.86
+9,NPSA,September,National Park of American Samoa,2307,2792,82,72,10,-169.45380760527,-14.2397277326939,AS,American Samoa,American Samoa,,3,1,8.57
+9,VIIS,September,Virgin Islands National Park,9907,2792,86,72,13,-64.7711104889969,18.3537986172337,VI,Virgin Islands,Virgin Islands,,3,1,8.57
+9,HAVO,September,Hawaii Volcanoes National Park,106436,2792,85,61,6,-155.211822871939,19.3261421561552,HI,Hawaii,Hawaii,,3,1,8.57
+9,HALE,September,Haleakala National Park,87644,2792,73,55,16,-156.147093143192,20.7045121293322,HI,Hawaii,Hawaii,,3,1,8.57
+9,DRTO,September,Dry Tortugas National Park,3833,2792,90,77,9,-82.866554231556,24.6543956186476,FL,Florida,Southeast,,3,1,8.57
+9,EVER,September,Everglades National Park,44950,2792,45,27,9,-80.9534963862279,25.2722561640483,FL,Florida,Southeast,,3,1,8.57
+9,BISC,September,Biscayne National Park,35528,2792,83,77,12,-80.2183015926945,25.4696892466471,FL,Florida,Southeast,,3,1,8.57
+9,BIBE,September,Big Bend National Park,18879,2792,89,71,6,-103.229789673023,29.298177668898,TX,Texas,South,,3,1,8.57
+9,GUMO,September,Guadalupe Mountains National Park,11706,2792,66,48,7,-104.884347170347,31.9233842093917,TX,Texas,South,,3,1,8.57
+9,CAVE,September,Carlsbad Caverns National Park,27388,2792,78,56,5,-104.527765634579,32.1523427539914,NM,New Mexico,Southwest,,3,1,8.57
+9,SAGU,September,Saguaro National Park,37267,2792,95,67,3,-110.608314061594,32.1788360853936,AZ,Arizona,Southwest,,3,1,8.57
+9,WHSA,September,White Sands National Monument,41424,2792,89,55,3,-106.335072235936,32.7791333760192,NM,New Mexico,Southwest,,3,1,8.57
+9,CONG,September,Congaree National Park,8649,2792,85,65,5,-80.8183523261644,33.8062043146765,SC,South Carolina,Southeast,,3,1,8.57
+9,JOTR,September,Joshua Tree National Park,114077,2792,94,64,1,-116.159070843561,33.9809652285081,CA,California,West,,3,1,8.57
+9,CHIS,September,Channel Islands National Park,28235,2792,76,49,6,-119.725169845147,34.003929782292,CA,California,West,,3,1,8.57
+9,HOSP,September,Hot Springs National Park,145964,2792,85,61,6,-93.0897218510827,34.5111382250636,AR,Arkansas,South,,3,1,8.57
+9,PEFO,September,Petrified Forest National Park,56626,2792,84,52,3,-109.674717745724,34.9886818040188,AZ,Arizona,Southwest,,3,1,8.57
+9,GRSM,September,Great Smoky Mountains National Park,1093592,2792,66,50,9,-83.7710478077257,35.5338112634119,NC,North Carolina,Southeast,,3,1,8.57
+9,GRCA,September,Grand Canyon National Park,516112,2792,66,32,6,-112.195863320502,36.1866831412135,AZ,Arizona,Southwest,,3,1,8.57
+9,DEVA,September,Death Valley National Park,118966,2792,107,76,0,-117.135111544358,36.4874191006716,CA,California,West,,3,1,8.57
+9,PINN,September,Pinnacles National Monument,15726,2792,89,46,0,-121.181100883266,36.4901310064952,CA,California,West,,3,1,8.57
+9,MACA,September,Mammoth Cave National Park,39148,2792,82,58,6,-86.1309019819107,37.197604576779,KY,Kentucky,Central,,3,1,8.57
+9,MEVE,September,Mesa Verde National Park,67055,2792,74,46,5,-108.500928885895,37.2235131532065,CO,Colorado,Southwest,,3,1,8.57
+9,ZION,September,Zion National Park,406407,2792,91,60,4,-112.954431628695,37.2557094971311,UT,Utah,Southwest,,3,1,8.57
+9,BRCA,September,Bryce Canyon National Park,287363,2792,69,37,4,-112.182668887441,37.5839914387525,UT,Utah,Southwest,,3,1,8.57
+9,GRSA,September,Great Sand Dunes National Park & Preserve,38109,2792,66,50,9,-105.578326305192,37.7599427010072,CO,Colorado,Southwest,,3,1,8.57
+9,CARE,September,Capitol Reef National Park,132190,2792,76,52,3,-111.003292945773,37.7959925350174,UT,Utah,Southwest,,3,1,8.57
+9,YOSE,September,Yosemite National Park,526494,2792,84,50,2,-119.556007294598,37.8489365691181,CA,California,West,,3,1,8.57
+9,CANY,September,Canyonlands National Park,78393,2792,82,59,3,-109.883146255275,38.2720728762148,UT,Utah,Southwest,,3,1,8.57
+9,SHEN,September,Shenandoah National Park,140349,2792,73,52,14,-78.6761996287734,38.281082106749,VA,Virginia,Southeast,,3,1,8.57
+9,BLCA,September,Black Canyon Of The Gunnison National Park,33322,2792,81,49,7,-107.723980166415,38.5773922528943,CO,Colorado,Southwest,,3,1,8.57
+9,ARCH,September,Arches National Park,169780,2792,85,54,3,-109.595456027609,38.7079176322515,UT,Utah,Southwest,,3,1,8.57
+9,WOTR,September,Wolf Trap National Park for the Performing Arts,39455,2792,77,58,6,-77.2635541016389,38.9379319964751,VA,Virginia,Southeast,,3,1,8.57
+9,GRBA,September,Great Basin National Park,20099,2792,73,44,4,-114.257978174487,38.9461737831271,NV,Nevada,West,,3,1,8.57
+9,ROMO,September,Rocky Mountain National Park,583748,2792,59,38,8,-105.698385322314,40.3557983972215,CO,Colorado,Southwest,,3,1,8.57
+9,LAVO,September,Lassen Volcanic National Park,71776,2792,70,35,2,-121.412126649044,40.4862202609082,CA,California,West,,3,1,8.57
+9,CUVA,September,Cuyahoga Valley National Park,227036,2792,74,57,7,-81.5690344075238,41.2607133550007,OH,Ohio,Central,,3,1,8.57
+9,INDU,September,Indiana Dunes National Lakeshore,195387,2792,75,56,6,-87.0324152909807,41.661457848148,IN,Indiana,Central,,3,1,8.57
+9,CRLA,September,Crater Lake National Park,95582,2792,64,38,4,-122.135258704593,42.9444360519401,OR,Oregon,Northwest,,3,1,8.57
+9,WICA,September,Wind Cave National Park,71649,2792,77,46,4,-103.428776416894,43.6078717812364,SD,South Dakota,West North Central,,3,1,8.57
+9,GRTE,September,Grand Teton National Park,454950,2792,56,36,4,-110.705466560382,43.8185356536819,WY,Wyoming,West North Central,,3,1,8.57
+9,BADL,September,Badlands National Park,116129,2792,76,52,4,-102.393945095541,43.8340624087368,SD,South Dakota,West North Central,,3,1,8.57
+9,ACAD,September,Acadia National Park,487806,2792,67,48,7,-68.244111977338,44.3507513883282,ME,Maine,Northeast,,3,1,8.57
+9,YELL,September,Yellowstone National Park,618376,2792,62,31,7,-110.490083022759,44.5830322172137,WY,Wyoming,West North Central,,3,1,8.57
+9,MORA,September,Mount Rainier National Park,181768,2792,46,30,10,-121.70574507947,46.8605591990317,WA,Washington,Northwest,,3,1,8.57
+9,THRO,September,Theodore Roosevelt National Park,84084,2792,75,42,4,-103.459250806364,46.9536209666581,ND,North Dakota,West North Central,,3,1,8.57
+9,OLYM,September,Olympic National Park,385428,2792,56,40,7,-123.619445162923,47.7945352044965,WA,Washington,Northwest,,3,1,8.57
+9,ISRO,September,Isle Royale National Park,2176,2792,62,49,10,-89.1044184773109,47.9008395823696,MI,Michigan,East North Central,,3,1,8.57
+9,VOYA,September,Voyageurs National Park,25054,2792,65,44,9,-92.9805712996976,48.5171693221999,MN,Minnesota,East North Central,,3,1,8.57
+9,GLAC,September,Glacier National Park,383366,2792,96,68,3,-113.800791595485,48.6842687606688,MT,Montana,West North Central,,3,1,8.57
+9,NOCA,September,North Cascades National Park,5406,2792,46,26,11,-121.347557783632,48.8330394098154,WA,Washington,Northwest,,3,1,8.57
+9,KATM,September,Katmai National Park & Preserve,5579,2792,55,45,18,-155.013410503509,58.6225739667646,AK,Alaska,Alaska,,3,1,8.57
+9,GLBA,September,Glacier Bay National Park & Preserve,79449,2792,60,38,9,-136.840717328383,58.8008647444753,AK,Alaska,Alaska,,3,1,8.57
+9,KEFJ,September,Kenai Fjords National Park,48711,2792,34,28,17,-149.881524488685,59.9538968876318,AK,Alaska,Alaska,,3,1,8.57
+9,LACL,September,Lake Clark National Park & Preserve,1951,2792,47,31,19,-153.601844152823,60.6467969093566,AK,Alaska,Alaska,,3,1,8.57
+9,WRST,September,Wrangell - St Elias National Park & Preserve,6963,2792,16,8,11,-142.603571113694,61.4184393795561,AK,Alaska,Alaska,,3,1,8.57
+9,DENA,September,Denali National Park & Preserve,55885,2792,51,35,16,-151.052635502821,63.2977743600459,AK,Alaska,Alaska,,3,1,8.57
+9,KOVA,September,Kobuk Valley National Park,1676,2792,48,33,11,-159.063083346586,67.2826365277018,AK,Alaska,Alaska,,3,1,8.57
+9,GAAR,September,Gates Of The Arctic National Park & Preserve,894,2792,51,35,16,-153.264132316988,67.9192854407937,AK,Alaska,Alaska,,3,1,8.57
+10,NPSA,October,National Park of American Samoa,2983,2773,82,73,13,-169.45380760527,-14.2397277326939,AS,American Samoa,American Samoa,,0,0,8.86
+10,VIIS,October,Virgin Islands National Park,12689,2773,85,72,15,-64.7711104889969,18.3537986172337,VI,Virgin Islands,Virgin Islands,,0,0,8.86
+10,HAVO,October,Hawaii Volcanoes National Park,112450,2773,75,50,6,-155.211822871939,19.3261421561552,HI,Hawaii,Hawaii,,0,0,8.86
+10,HALE,October,Haleakala National Park,77267,2773,72,55,18,-156.147093143192,20.7045121293322,HI,Hawaii,Hawaii,,0,0,8.86
+10,DRTO,October,Dry Tortugas National Park,2673,2773,85,75,7,-82.866554231556,24.6543956186476,FL,Florida,Southeast,,0,0,8.86
+10,EVER,October,Everglades National Park,59935,2773,26,12,8,-80.9534963862279,25.2722561640483,FL,Florida,Southeast,,0,0,8.86
+10,BISC,October,Biscayne National Park,32424,2773,79,74,9,-80.2183015926945,25.4696892466471,FL,Florida,Southeast,,0,0,8.86
+10,BIBE,October,Big Bend National Park,29834,2773,85,65,5,-103.229789673023,29.298177668898,TX,Texas,South,,0,0,8.86
+10,GUMO,October,Guadalupe Mountains National Park,18191,2773,65,48,7,-104.884347170347,31.9233842093917,TX,Texas,South,,0,0,8.86
+10,CAVE,October,Carlsbad Caverns National Park,27950,2773,70,48,3,-104.527765634579,32.1523427539914,NM,New Mexico,Southwest,,0,0,8.86
+10,SAGU,October,Saguaro National Park,50021,2773,86,57,2,-110.608314061594,32.1788360853936,AZ,Arizona,Southwest,,0,0,8.86
+10,WHSA,October,White Sands National Monument,37726,2773,79,41,3,-106.335072235936,32.7791333760192,NM,New Mexico,Southwest,,0,0,8.86
+10,CONG,October,Congaree National Park,10633,2773,75,52,6,-80.8183523261644,33.8062043146765,SC,South Carolina,Southeast,,0,0,8.86
+10,JOTR,October,Joshua Tree National Park,157288,2773,83,54,0,-116.159070843561,33.9809652285081,CA,California,West,,0,0,8.86
+10,CHIS,October,Channel Islands National Park,22103,2773,72,46,4,-119.725169845147,34.003929782292,CA,California,West,,0,0,8.86
+10,HOSP,October,Hot Springs National Park,134571,2773,75,50,6,-93.0897218510827,34.5111382250636,AR,Arkansas,South,,0,0,8.86
+10,PEFO,October,Petrified Forest National Park,58107,2773,73,40,3,-109.674717745724,34.9886818040188,AZ,Arizona,Southwest,,0,0,8.86
+10,GRSM,October,Great Smoky Mountains National Park,1250931,2773,57,40,8,-83.7710478077257,35.5338112634119,NC,North Carolina,Southeast,,0,0,8.86
+10,GRCA,October,Grand Canyon National Park,429149,2773,52,24,7,-112.195863320502,36.1866831412135,AZ,Arizona,Southwest,,0,0,8.86
+10,DEVA,October,Death Valley National Park,96441,2773,93,62,0,-117.135111544358,36.4874191006716,CA,California,West,,0,0,8.86
+10,PINN,October,Pinnacles National Monument,15542,2773,79,40,2,-121.181100883266,36.4901310064952,CA,California,West,,0,0,8.86
+10,MACA,October,Mammoth Cave National Park,41488,2773,72,47,6,-86.1309019819107,37.197604576779,KY,Kentucky,Central,,0,0,8.86
+10,MEVE,October,Mesa Verde National Park,40233,2773,61,36,5,-108.500928885895,37.2235131532065,CO,Colorado,Southwest,,0,0,8.86
+10,ZION,October,Zion National Park,325118,2773,78,49,4,-112.954431628695,37.2557094971311,UT,Utah,Southwest,,0,0,8.86
+10,BRCA,October,Bryce Canyon National Park,157131,2773,57,27,4,-112.182668887441,37.5839914387525,UT,Utah,Southwest,,0,0,8.86
+10,GRSA,October,Great Sand Dunes National Park & Preserve,21878,2773,57,40,8,-105.578326305192,37.7599427010072,CO,Colorado,Southwest,,0,0,8.86
+10,CARE,October,Capitol Reef National Park,102264,2773,61,40,2,-111.003292945773,37.7959925350174,UT,Utah,Southwest,,0,0,8.86
+10,YOSE,October,Yosemite National Park,375380,2773,72,41,3,-119.556007294598,37.8489365691181,CA,California,West,,0,0,8.86
+10,CANY,October,Canyonlands National Park,65326,2773,68,46,4,-109.883146255275,38.2720728762148,UT,Utah,Southwest,,0,0,8.86
+10,SHEN,October,Shenandoah National Park,232555,2773,63,40,12,-78.6761996287734,38.281082106749,VA,Virginia,Southeast,,0,0,8.86
+10,BLCA,October,Black Canyon Of The Gunnison National Park,20399,2773,68,39,8,-107.723980166415,38.5773922528943,CO,Colorado,Southwest,,0,0,8.86
+10,ARCH,October,Arches National Park,115015,2773,71,41,3,-109.595456027609,38.7079176322515,UT,Utah,Southwest,,0,0,8.86
+10,WOTR,October,Wolf Trap National Park for the Performing Arts,1043,2773,66,47,6,-77.2635541016389,38.9379319964751,VA,Virginia,Southeast,,0,0,8.86
+10,GRBA,October,Great Basin National Park,8876,2773,61,33,3,-114.257978174487,38.9461737831271,NV,Nevada,West,,0,0,8.86
+10,ROMO,October,Rocky Mountain National Park,289163,2773,46,29,10,-105.698385322314,40.3557983972215,CO,Colorado,Southwest,,0,0,8.86
+10,LAVO,October,Lassen Volcanic National Park,42484,2773,58,29,5,-121.412126649044,40.4862202609082,CA,California,West,,0,0,8.86
+10,CUVA,October,Cuyahoga Valley National Park,207358,2773,62,46,7,-81.5690344075238,41.2607133550007,OH,Ohio,Central,,0,0,8.86
+10,INDU,October,Indiana Dunes National Lakeshore,124505,2773,63,45,8,-87.0324152909807,41.661457848148,IN,Indiana,Central,,0,0,8.86
+10,CRLA,October,Crater Lake National Park,35089,2773,52,32,10,-122.135258704593,42.9444360519401,OR,Oregon,Northwest,,0,0,8.86
+10,WICA,October,Wind Cave National Park,24792,2773,62,34,4,-103.428776416894,43.6078717812364,SD,South Dakota,West North Central,,0,0,8.86
+10,GRTE,October,Grand Teton National Park,163204,2773,44,25,5,-110.705466560382,43.8185356536819,WY,Wyoming,West North Central,,0,0,8.86
+10,BADL,October,Badlands National Park,36330,2773,60,40,5,-102.393945095541,43.8340624087368,SD,South Dakota,West North Central,,0,0,8.86
+10,ACAD,October,Acadia National Park,346012,2773,55,38,9,-68.244111977338,44.3507513883282,ME,Maine,Northeast,,0,0,8.86
+10,YELL,October,Yellowstone National Park,187936,2773,48,24,10,-110.490083022759,44.5830322172137,WY,Wyoming,West North Central,,0,0,8.86
+10,MORA,October,Mount Rainier National Park,73091,2773,37,23,15,-121.70574507947,46.8605591990317,WA,Washington,Northwest,,0,0,8.86
+10,THRO,October,Theodore Roosevelt National Park,60668,2773,60,30,3,-103.459250806364,46.9536209666581,ND,North Dakota,West North Central,,0,0,8.86
+10,OLYM,October,Olympic National Park,163795,2773,46,34,13,-123.619445162923,47.7945352044965,WA,Washington,Northwest,,0,0,8.86
+10,ISRO,October,Isle Royale National Park,239,2773,48,38,11,-89.1044184773109,47.9008395823696,MI,Michigan,East North Central,,0,0,8.86
+10,VOYA,October,Voyageurs National Park,7900,2773,51,32,8,-92.9805712996976,48.5171693221999,MN,Minnesota,East North Central,,0,0,8.86
+10,GLAC,October,Glacier National Park,67524,2773,83,58,2,-113.800791595485,48.6842687606688,MT,Montana,West North Central,,0,0,8.86
+10,NOCA,October,North Cascades National Park,981,2773,33,19,13,-121.347557783632,48.8330394098154,WA,Washington,Northwest,,0,0,8.86
+10,KATM,October,Katmai National Park & Preserve,100,2773,44,35,15,-155.013410503509,58.6225739667646,AK,Alaska,Alaska,,0,0,8.86
+10,GLBA,October,Glacier Bay National Park & Preserve,810,2773,46,30,13,-136.840717328383,58.8008647444753,AK,Alaska,Alaska,,0,0,8.86
+10,KEFJ,October,Kenai Fjords National Park,3150,2773,26,19,16,-149.881524488685,59.9538968876318,AK,Alaska,Alaska,,0,0,8.86
+10,LACL,October,Lake Clark National Park & Preserve,297,2773,34,20,15,-153.601844152823,60.6467969093566,AK,Alaska,Alaska,,0,0,8.86
+10,WRST,October,Wrangell - St Elias National Park & Preserve,530,2773,6,-2,9,-142.603571113694,61.4184393795561,AK,Alaska,Alaska,,0,0,8.86
+10,DENA,October,Denali National Park & Preserve,1797,2773,38,24,14,-151.052635502821,63.2977743600459,AK,Alaska,Alaska,,0,0,8.86
+10,KOVA,October,Kobuk Valley National Park,1792,2773,28,16,6,-159.063083346586,67.2826365277018,AK,Alaska,Alaska,,0,0,8.86
+10,GAAR,October,Gates Of The Arctic National Park & Preserve,16,2773,38,24,14,-153.264132316988,67.9192854407937,AK,Alaska,Alaska,,0,0,8.86
+11,NPSA,November,National Park of American Samoa,3162,2807,83,73,13,-169.45380760527,-14.2397277326939,AS,American Samoa,American Samoa,,3,3,8.57
+11,VIIS,November,Virgin Islands National Park,24201,2807,82,70,15,-64.7711104889969,18.3537986172337,VI,Virgin Islands,Virgin Islands,,3,3,8.57
+11,HAVO,November,Hawaii Volcanoes National Park,129321,2807,62,40,7,-155.211822871939,19.3261421561552,HI,Hawaii,Hawaii,,3,3,8.57
+11,HALE,November,Haleakala National Park,75109,2807,70,53,17,-156.147093143192,20.7045121293322,HI,Hawaii,Hawaii,,3,3,8.57
+11,DRTO,November,Dry Tortugas National Park,4489,2807,79,70,3,-82.866554231556,24.6543956186476,FL,Florida,Southeast,,3,3,8.57
+11,EVER,November,Everglades National Park,75582,2807,2,-12,5,-80.9534963862279,25.2722561640483,FL,Florida,Southeast,,3,3,8.57
+11,BISC,November,Biscayne National Park,30115,2807,72,67,7,-80.2183015926945,25.4696892466471,FL,Florida,Southeast,,3,3,8.57
+11,BIBE,November,Big Bend National Park,38966,2807,75,56,3,-103.229789673023,29.298177668898,TX,Texas,South,,3,3,8.57
+11,GUMO,November,Guadalupe Mountains National Park,16843,2807,64,47,8,-104.884347170347,31.9233842093917,TX,Texas,South,,3,3,8.57
+11,CAVE,November,Carlsbad Caverns National Park,24427,2807,60,38,2,-104.527765634579,32.1523427539914,NM,New Mexico,Southwest,,3,3,8.57
+11,SAGU,November,Saguaro National Park,68992,2807,74,46,1,-110.608314061594,32.1788360853936,AZ,Arizona,Southwest,,3,3,8.57
+11,WHSA,November,White Sands National Monument,32699,2807,66,29,1,-106.335072235936,32.7791333760192,NM,New Mexico,Southwest,,3,3,8.57
+11,CONG,November,Congaree National Park,10679,2807,67,41,4,-80.8183523261644,33.8062043146765,SC,South Carolina,Southeast,,3,3,8.57
+11,JOTR,November,Joshua Tree National Park,205930,2807,72,44,0,-116.159070843561,33.9809652285081,CA,California,West,,3,3,8.57
+11,CHIS,November,Channel Islands National Park,17747,2807,67,41,3,-119.725169845147,34.003929782292,CA,California,West,,3,3,8.57
+11,HOSP,November,Hot Springs National Park,101303,2807,62,40,7,-93.0897218510827,34.5111382250636,AR,Arkansas,South,,3,3,8.57
+11,PEFO,November,Petrified Forest National Park,31057,2807,60,28,2,-109.674717745724,34.9886818040188,AZ,Arizona,Southwest,,3,3,8.57
+11,GRSM,November,Great Smoky Mountains National Park,722985,2807,48,30,8,-83.7710478077257,35.5338112634119,NC,North Carolina,Southeast,,3,3,8.57
+11,GRCA,November,Grand Canyon National Park,283038,2807,35,14,11,-112.195863320502,36.1866831412135,AZ,Arizona,Southwest,,3,3,8.57
+11,DEVA,November,Death Valley National Park,86454,2807,77,48,0,-117.135111544358,36.4874191006716,CA,California,West,,3,3,8.57
+11,PINN,November,Pinnacles National Monument,15563,2807,68,34,4,-121.181100883266,36.4901310064952,CA,California,West,,3,3,8.57
+11,MACA,November,Mammoth Cave National Park,20631,2807,59,38,7,-86.1309019819107,37.197604576779,KY,Kentucky,Central,,3,3,8.57
+11,MEVE,November,Mesa Verde National Park,11742,2807,48,25,4,-108.500928885895,37.2235131532065,CO,Colorado,Southwest,,3,3,8.57
+11,ZION,November,Zion National Park,182335,2807,63,37,5,-112.954431628695,37.2557094971311,UT,Utah,Southwest,,3,3,8.57
+11,BRCA,November,Bryce Canyon National Park,51124,2807,44,18,3,-112.182668887441,37.5839914387525,UT,Utah,Southwest,,3,3,8.57
+11,GRSA,November,Great Sand Dunes National Park & Preserve,6802,2807,48,30,8,-105.578326305192,37.7599427010072,CO,Colorado,Southwest,,3,3,8.57
+11,CARE,November,Capitol Reef National Park,30466,2807,48,29,1,-111.003292945773,37.7959925350174,UT,Utah,Southwest,,3,3,8.57
+11,YOSE,November,Yosemite National Park,184724,2807,57,32,5,-119.556007294598,37.8489365691181,CA,California,West,,3,3,8.57
+11,CANY,November,Canyonlands National Park,23108,2807,52,35,3,-109.883146255275,38.2720728762148,UT,Utah,Southwest,,3,3,8.57
+11,SHEN,November,Shenandoah National Park,101612,2807,52,32,8,-78.6761996287734,38.281082106749,VA,Virginia,Southeast,,3,3,8.57
+11,BLCA,November,Black Canyon Of The Gunnison National Park,10236,2807,56,29,6,-107.723980166415,38.5773922528943,CO,Colorado,Southwest,,3,3,8.57
+11,ARCH,November,Arches National Park,52618,2807,55,29,2,-109.595456027609,38.7079176322515,UT,Utah,Southwest,,3,3,8.57
+11,WOTR,November,Wolf Trap National Park for the Performing Arts,694,2807,56,36,6,-77.2635541016389,38.9379319964751,VA,Virginia,Southeast,,3,3,8.57
+11,GRBA,November,Great Basin National Park,2964,2807,47,22,2,-114.257978174487,38.9461737831271,NV,Nevada,West,,3,3,8.57
+11,ROMO,November,Rocky Mountain National Park,107284,2807,34,20,13,-105.698385322314,40.3557983972215,CO,Colorado,Southwest,,3,3,8.57
+11,LAVO,November,Lassen Volcanic National Park,9192,2807,46,23,9,-121.412126649044,40.4862202609082,CA,California,West,,3,3,8.57
+11,CUVA,November,Cuyahoga Valley National Park,128642,2807,50,37,9,-81.5690344075238,41.2607133550007,OH,Ohio,Central,,3,3,8.57
+11,INDU,November,Indiana Dunes National Lakeshore,70686,2807,50,35,7,-87.0324152909807,41.661457848148,IN,Indiana,Central,,3,3,8.57
+11,CRLA,November,Crater Lake National Park,11506,2807,41,26,17,-122.135258704593,42.9444360519401,OR,Oregon,Northwest,,3,3,8.57
+11,WICA,November,Wind Cave National Park,14664,2807,49,23,2,-103.428776416894,43.6078717812364,SD,South Dakota,West North Central,,3,3,8.57
+11,GRTE,November,Grand Teton National Park,41068,2807,35,16,5,-110.705466560382,43.8185356536819,WY,Wyoming,West North Central,,3,3,8.57
+11,BADL,November,Badlands National Park,16237,2807,47,28,2,-102.393945095541,43.8340624087368,SD,South Dakota,West North Central,,3,3,8.57
+11,ACAD,November,Acadia National Park,42539,2807,45,29,9,-68.244111977338,44.3507513883282,ME,Maine,Northeast,,3,3,8.57
+11,YELL,November,Yellowstone National Park,14149,2807,34,13,12,-110.490083022759,44.5830322172137,WY,Wyoming,West North Central,,3,3,8.57
+11,MORA,November,Mount Rainier National Park,55717,2807,26,15,22,-121.70574507947,46.8605591990317,WA,Washington,Northwest,,3,3,8.57
+11,THRO,November,Theodore Roosevelt National Park,24088,2807,42,18,2,-103.459250806364,46.9536209666581,ND,North Dakota,West North Central,,3,3,8.57
+11,OLYM,November,Olympic National Park,100031,2807,37,28,18,-123.619445162923,47.7945352044965,WA,Washington,Northwest,,3,3,8.57
+11,ISRO,November,Isle Royale National Park,43,2807,35,26,9,-89.1044184773109,47.9008395823696,MI,Michigan,East North Central,,3,3,8.57
+11,VOYA,November,Voyageurs National Park,1727,2807,35,19,6,-92.9805712996976,48.5171693221999,MN,Minnesota,East North Central,,3,3,8.57
+11,GLAC,November,Glacier National Park,18071,2807,69,46,2,-113.800791595485,48.6842687606688,MT,Montana,West North Central,,3,3,8.57
+11,NOCA,November,North Cascades National Park,90,2807,21,12,17,-121.347557783632,48.8330394098154,WA,Washington,Northwest,,3,3,8.57
+11,KATM,November,Katmai National Park & Preserve,100,2807,33,23,12,-155.013410503509,58.6225739667646,AK,Alaska,Alaska,,3,3,8.57
+11,GLBA,November,Glacier Bay National Park & Preserve,185,2807,33,21,19,-136.840717328383,58.8008647444753,AK,Alaska,Alaska,,3,3,8.57
+11,KEFJ,November,Kenai Fjords National Park,109,2807,17,10,11,-149.881524488685,59.9538968876318,AK,Alaska,Alaska,,3,3,8.57
+11,LACL,November,Lake Clark National Park & Preserve,188,2807,22,9,8,-153.601844152823,60.6467969093566,AK,Alaska,Alaska,,3,3,8.57
+11,WRST,November,Wrangell - St Elias National Park & Preserve,60,2807,-5,-15,7,-142.603571113694,61.4184393795561,AK,Alaska,Alaska,,3,3,8.57
+11,DENA,November,Denali National Park & Preserve,800,2807,22,9,10,-151.052635502821,63.2977743600459,AK,Alaska,Alaska,,3,3,8.57
+11,KOVA,November,Kobuk Valley National Park,1900,2807,9,-3,1,-159.063083346586,67.2826365277018,AK,Alaska,Alaska,,3,3,8.57
+11,GAAR,November,Gates Of The Arctic National Park & Preserve,30,2807,22,9,10,-153.264132316988,67.9192854407937,AK,Alaska,Alaska,,3,3,8.57
+12,NPSA,December,National Park of American Samoa,1930,2803,83,73,13,-169.45380760527,-14.2397277326939,AS,American Samoa,American Samoa,,14,2,8.86
+12,VIIS,December,Virgin Islands National Park,33575,2803,80,69,14,-64.7711104889969,18.3537986172337,VI,Virgin Islands,Virgin Islands,,14,2,8.86
+12,HAVO,December,Hawaii Volcanoes National Park,142224,2803,53,32,7,-155.211822871939,19.3261421561552,HI,Hawaii,Hawaii,,14,2,8.86
+12,HALE,December,Haleakala National Park,89020,2803,68,51,17,-156.147093143192,20.7045121293322,HI,Hawaii,Hawaii,,14,2,8.86
+12,DRTO,December,Dry Tortugas National Park,4660,2803,76,67,4,-82.866554231556,24.6543956186476,FL,Florida,Southeast,,14,2,8.86
+12,EVER,December,Everglades National Park,106572,2803,-3,-18,6,-80.9534963862279,25.2722561640483,FL,Florida,Southeast,,14,2,8.86
+12,BISC,December,Biscayne National Park,31978,2803,68,62,3,-80.2183015926945,25.4696892466471,FL,Florida,Southeast,,14,2,8.86
+12,BIBE,December,Big Bend National Park,28012,2803,70,50,3,-103.229789673023,29.298177668898,TX,Texas,South,,14,2,8.86
+12,GUMO,December,Guadalupe Mountains National Park,10960,2803,62,45,8,-104.884347170347,31.9233842093917,TX,Texas,South,,14,2,8.86
+12,CAVE,December,Carlsbad Caverns National Park,23418,2803,53,31,1,-104.527765634579,32.1523427539914,NM,New Mexico,Southwest,,14,2,8.86
+12,SAGU,December,Saguaro National Park,68256,2803,65,39,3,-110.608314061594,32.1788360853936,AZ,Arizona,Southwest,,14,2,8.86
+12,WHSA,December,White Sands National Monument,31860,2803,57,22,2,-106.335072235936,32.7791333760192,NM,New Mexico,Southwest,,14,2,8.86
+12,CONG,December,Congaree National Park,8008,2803,58,34,6,-80.8183523261644,33.8062043146765,SC,South Carolina,Southeast,,14,2,8.86
+12,JOTR,December,Joshua Tree National Park,198659,2803,61,37,1,-116.159070843561,33.9809652285081,CA,California,West,,14,2,8.86
+12,CHIS,December,Channel Islands National Park,14431,2803,61,38,5,-119.725169845147,34.003929782292,CA,California,West,,14,2,8.86
+12,HOSP,December,Hot Springs National Park,72736,2803,53,32,7,-93.0897218510827,34.5111382250636,AR,Arkansas,South,,14,2,8.86
+12,PEFO,December,Petrified Forest National Park,26364,2803,49,21,3,-109.674717745724,34.9886818040188,AZ,Arizona,Southwest,,14,2,8.86
+12,GRSM,December,Great Smoky Mountains National Park,504147,2803,41,25,10,-83.7710478077257,35.5338112634119,NC,North Carolina,Southeast,,14,2,8.86
+12,GRCA,December,Grand Canyon National Park,259707,2803,25,3,12,-112.195863320502,36.1866831412135,AZ,Arizona,Southwest,,14,2,8.86
+12,DEVA,December,Death Valley National Park,76556,2803,65,39,0,-117.135111544358,36.4874191006716,CA,California,West,,14,2,8.86
+12,PINN,December,Pinnacles National Monument,16496,2803,60,30,7,-121.181100883266,36.4901310064952,CA,California,West,,14,2,8.86
+12,MACA,December,Mammoth Cave National Park,13300,2803,49,30,8,-86.1309019819107,37.197604576779,KY,Kentucky,Central,,14,2,8.86
+12,MEVE,December,Mesa Verde National Park,8125,2803,38,18,5,-108.500928885895,37.2235131532065,CO,Colorado,Southwest,,14,2,8.86
+12,ZION,December,Zion National Park,107556,2803,53,30,6,-112.954431628695,37.2557094971311,UT,Utah,Southwest,,14,2,8.86
+12,BRCA,December,Bryce Canyon National Park,30972,2803,36,12,3,-112.182668887441,37.5839914387525,UT,Utah,Southwest,,14,2,8.86
+12,GRSA,December,Great Sand Dunes National Park & Preserve,3298,2803,41,25,10,-105.578326305192,37.7599427010072,CO,Colorado,Southwest,,14,2,8.86
+12,CARE,December,Capitol Reef National Park,12385,2803,36,20,2,-111.003292945773,37.7959925350174,UT,Utah,Southwest,,14,2,8.86
+12,YOSE,December,Yosemite National Park,150633,2803,48,27,7,-119.556007294598,37.8489365691181,CA,California,West,,14,2,8.86
+12,CANY,December,Canyonlands National Park,9447,2803,41,25,2,-109.883146255275,38.2720728762148,UT,Utah,Southwest,,14,2,8.86
+12,SHEN,December,Shenandoah National Park,23628,2803,43,24,9,-78.6761996287734,38.281082106749,VA,Virginia,Southeast,,14,2,8.86
+12,BLCA,December,Black Canyon Of The Gunnison National Park,4365,2803,44,20,9,-107.723980166415,38.5773922528943,CO,Colorado,Southwest,,14,2,8.86
+12,ARCH,December,Arches National Park,28038,2803,41,20,2,-109.595456027609,38.7079176322515,UT,Utah,Southwest,,14,2,8.86
+12,WOTR,December,Wolf Trap National Park for the Performing Arts,6460,2803,46,29,7,-77.2635541016389,38.9379319964751,VA,Virginia,Southeast,,14,2,8.86
+12,ROMO,December,Rocky Mountain National Park,87514,2803,25,12,13,-105.698385322314,40.3557983972215,CO,Colorado,Southwest,,14,2,8.86
+12,LAVO,December,Lassen Volcanic National Park,7636,2803,40,19,11,-121.412126649044,40.4862202609082,CA,California,West,,14,2,8.86
+12,CUVA,December,Cuyahoga Valley National Park,113960,2803,39,27,9,-81.5690344075238,41.2607133550007,OH,Ohio,Central,,14,2,8.86
+12,INDU,December,Indiana Dunes National Lakeshore,53577,2803,38,25,7,-87.0324152909807,41.661457848148,IN,Indiana,Central,,14,2,8.86
+12,CRLA,December,Crater Lake National Park,6744,2803,36,22,18,-122.135258704593,42.9444360519401,OR,Oregon,Northwest,,14,2,8.86
+12,WICA,December,Wind Cave National Park,13131,2803,39,15,2,-103.428776416894,43.6078717812364,SD,South Dakota,West North Central,,14,2,8.86
+12,GRTE,December,Grand Teton National Park,42656,2803,28,9,6,-110.705466560382,43.8185356536819,WY,Wyoming,West North Central,,14,2,8.86
+12,BADL,December,Badlands National Park,10220,2803,34,17,2,-102.393945095541,43.8340624087368,SD,South Dakota,West North Central,,14,2,8.86
+12,ACAD,December,Acadia National Park,11779,2803,34,17,10,-68.244111977338,44.3507513883282,ME,Maine,Northeast,,14,2,8.86
+12,YELL,December,Yellowstone National Park,19743,2803,26,4,13,-110.490083022759,44.5830322172137,WY,Wyoming,West North Central,,14,2,8.86
+12,MORA,December,Mount Rainier National Park,23176,2803,22,11,21,-121.70574507947,46.8605591990317,WA,Washington,Northwest,,14,2,8.86
+12,THRO,December,Theodore Roosevelt National Park,4422,2803,30,7,2,-103.459250806364,46.9536209666581,ND,North Dakota,West North Central,,14,2,8.86
+12,OLYM,December,Olympic National Park,75663,2803,32,24,17,-123.619445162923,47.7945352044965,WA,Washington,Northwest,,14,2,8.86
+12,ISRO,December,Isle Royale National Park,42,2803,23,14,5,-89.1044184773109,47.9008395823696,MI,Michigan,East North Central,,14,2,8.86
+12,VOYA,December,Voyageurs National Park,367,2803,20,2,5,-92.9805712996976,48.5171693221999,MN,Minnesota,East North Central,,14,2,8.86
+12,GLAC,December,Glacier National Park,12643,2803,58,39,3,-113.800791595485,48.6842687606688,MT,Montana,West North Central,,14,2,8.86
+12,NOCA,December,North Cascades National Park,43,2803,15,8,18,-121.347557783632,48.8330394098154,WA,Washington,Northwest,,14,2,8.86
+12,KATM,December,Katmai National Park & Preserve,91,2803,32,23,8,-155.013410503509,58.6225739667646,AK,Alaska,Alaska,,14,2,8.86
+12,GLBA,December,Glacier Bay National Park & Preserve,171,2803,27,14,19,-136.840717328383,58.8008647444753,AK,Alaska,Alaska,,14,2,8.86
+12,KEFJ,December,Kenai Fjords National Park,382,2803,17,10,12,-149.881524488685,59.9538968876318,AK,Alaska,Alaska,,14,2,8.86
+12,LACL,December,Lake Clark National Park & Preserve,180,2803,17,3,8,-153.601844152823,60.6467969093566,AK,Alaska,Alaska,,14,2,8.86
+12,WRST,December,Wrangell - St Elias National Park & Preserve,35,2803,-4,-14,8,-142.603571113694,61.4184393795561,AK,Alaska,Alaska,,14,2,8.86
+12,DENA,December,Denali National Park & Preserve,820,2803,20,7,10,-151.052635502821,63.2977743600459,AK,Alaska,Alaska,,14,2,8.86
+12,KOVA,December,Kobuk Valley National Park,1381,2803,4,-9,2,-159.063083346586,67.2826365277018,AK,Alaska,Alaska,,14,2,8.86
+12,GAAR,December,Gates Of The Arctic National Park & Preserve,121,2803,20,7,10,-153.264132316988,67.9192854407937,AK,Alaska,Alaska,,14,2,8.86
